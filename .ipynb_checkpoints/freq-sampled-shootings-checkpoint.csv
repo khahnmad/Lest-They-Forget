@@ -1,0 +1,11 @@
+City Or County,Shooting Name Sum,Shooting Sum,Shooter Name Sum,Incident ID,Incident Date,State,Address,# Killed,# Injured,Location Type,Gender of Killed,Avg Age of Killed,Majority racialized victims,Shooter Name,Shooter Age,Shooter Race,Shooter after the shooting,# Articles,Total Articles,Avg Word Count
+San Bernardino,228.0,5101.0,2017.0,456893,2015-12-02 00:00:00,California,1365 South Waterman Ave,16,19,public space,0.35714285714285715,41.92857142857143,0.0,Rizwan Farook and Tashfeen Malik,28.0,pakistani,killed by police,492,1802,711.0
+Houston,2.0,2401.0,0.0,390526,2015-08-08 00:00:00,Texas,2211 Falling Oaks,8,0,private space,0.25,18.25,1.0,David Ray Conley,48.0,black,arrested by police,64,919,1220.0
+Washington Navy Yard,51.0,928.0,489.0,480366,2013-09-16 00:00:00,District of Columbia,1336 Isaac Hull Ave,13,3,public space,0.2857142857142857,57.714285714285715,0.0,Aaron Alexis,34.0,black,killed by police,60,389,51.0
+Boulder,271.0,9394.0,357.0,1958652,2021-03-22 00:00:00,Colorado,3600 Table Mesa Dr,10,1,public space,0.6,46.6,0.0,Ahmad Al Aliwi Al-Issa,21.0,syrian-american,arrested by police,576,2281,404.0
+Odessa,46.0,5569.0,493.0,1492441,2019-08-31 00:00:00,Texas,8250 TX 191,8,23,public space,0.2857142857142857,31.857142857142854,1.0,Seth Aaron Ator,36.0,white,killed by police,325,1727,223.0
+Pittsburgh,56.0,6669.0,911.0,1241819,2018-10-27 00:00:00,Pennsylvania,5898 Wilkins Ave,11,7,religious space,0.3636363636363637,74.0,1.0,Robert Gregory Bowers,46.0,white,killed by police,454,1852,1632.0
+Las Vegas,1340.0,19302.0,8674.0,946496,2017-10-01 00:00:00,Nevada,3950 Las Vegas Blvd S,59,441,public space,0.6206896551724138,38.3793103448276,0.0,Stephen Paddock,64.0,White,Suicide,1925,4348,1013.0
+Plano,4.0,19345.0,132.0,930569,2017-09-10 00:00:00,Texas,1712 West Spring Creek Parkway,9,1,private space,0.375,27.375,0.0,Spencer Hight,32.0,white,killed by police,386,4239,1013.0
+Bogue Chitto,0.0,4035.0,0.0,853756,2017-05-27 00:00:00,Mississippi,2871 Lee Dr,8,1,private space,0.5,37.375,1.0,Willie Cory Godbolt,35.0,black,arrested by police,4,580,232.0
+Virginia Beach,65.0,11598.0,381.0,1410442,2019-05-31 00:00:00,Virginia,2405 Courthouse Drive,13,4,public space,0.4166666666666667,51.58333333333334,0.0,DeWayne Craddock,40.0,black,killed by police,154,3567,1118.0

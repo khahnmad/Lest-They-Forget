@@ -1,0 +1,10 @@
+City Or County,Shooting Name Sum,Shooting Sum,Shooter Name Sum,Incident ID,Incident Date,State,Address,# Killed,# Injured,Location Type,Gender of Killed,Avg Age of Killed,Majority racialized victims,Shooter Name,Shooter Age,Shooter Race,Shooter after the shooting
+San Bernardino,110.0,2961.0,484.0,456893,2015-12-02 00:00:00,California,1365 South Waterman Ave,16,19,public space,,,,,,,
+Houston,2.0,2474.0,0.0,390526,2015-08-08 00:00:00,Texas,2211 Falling Oaks,8,0,private space,,,,,,,
+Washington Navy Yard,43.0,798.0,455.0,480366,2013-09-16 00:00:00,District of Columbia,1336 Isaac Hull Ave,13,3,public space,,,,,,,
+Boulder,185.0,7080.0,224.0,1958652,2021-03-22 00:00:00,Colorado,3600 Table Mesa Dr,10,1,public space,,,,,,,
+Odessa,43.0,5229.0,442.0,1492441,2019-08-31 00:00:00,Texas,8250 TX 191,8,23,public space,,,,,,,
+Pittsburgh,35.0,4602.0,507.0,1241819,2018-10-27 00:00:00,Pennsylvania,5898 Wilkins Ave,11,7,religious space,,,,,,,
+Las Vegas,428.0,7546.0,2476.0,946496,2017-10-01 00:00:00,Nevada,3950 Las Vegas Blvd S,59,441,public space,0.6206896551724138,38.379310344827594,,Stephen Paddock,64.0,White,Suicide
+Plano,4.0,7303.0,71.0,930569,2017-09-10 00:00:00,Texas,1712 West Spring Creek Parkway,9,1,private space,,,,,,,
+Bogue Chitto,0.0,3970.0,0.0,853756,2017-05-27 00:00:00,Mississippi,2871 Lee Dr,8,1,private space,,,,,,,

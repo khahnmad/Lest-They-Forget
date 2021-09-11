@@ -1,0 +1,11 @@
+Incident ID,Incident Date,State,City Or County,Address,# Killed,# Injured,Location Type,Gender of Killed,Avg Age of Killed,Majority racialized victims,Shooter Name,Shooter Age,Shooter Race,Shooter after the shooting
+456893,2015-12-02 00:00:00,California,San Bernardino,1365 South Waterman Ave,16,19,public space,nan,nan,nan,nan,nan,nan,nan
+390526,2015-08-08 00:00:00,Texas,Houston,2211 Falling Oaks,8,0,private space,nan,nan,nan,nan,nan,nan,nan
+480366,2013-09-16 00:00:00,District of Columbia,Washington Navy Yard,1336 Isaac Hull Ave,13,3,public space,nan,nan,nan,nan,nan,nan,nan
+1958652,2021-03-22 00:00:00,Colorado,Boulder,3600 Table Mesa Dr,10,1,public space,nan,nan,nan,nan,nan,nan,nan
+1492441,2019-08-31 00:00:00,Texas,Odessa,8250 TX 191,8,23,public space,nan,nan,nan,nan,nan,nan,nan
+1410442,2019-05-31 00:00:00,Virginia,Virginia Beach,2405 Courthouse Drive,13,4,public space,nan,nan,nan,nan,nan,nan,nan
+1241819,2018-10-27 00:00:00,Pennsylvania,Pittsburgh,5898 Wilkins Ave,11,7,religious space,nan,nan,nan,nan,nan,nan,nan
+946496,2017-10-01 00:00:00,Nevada,Las Vegas,3950 Las Vegas Blvd S,59,441,public space,0.6206896551724138,38.37931034482759,nan,Stephen Paddock,64.0,White,Suicide
+930569,2017-09-10 00:00:00,Texas,Plano,1712 West Spring Creek Parkway,9,1,private space,nan,nan,nan,nan,nan,nan,nan
+853756,2017-05-27 00:00:00,Mississippi,Bogue Chitto,2871 Lee Dr,8,1,private space,nan,nan,nan,nan,nan,nan,nan

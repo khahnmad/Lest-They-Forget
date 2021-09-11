@@ -1,0 +1,1255 @@
+Case #,Shooter Last Name,Shooter First Name,Full Date,Victim Name,Age,Gender,Race,Knew Shooter,"If Known, Relationship to Shooter",Life Expectancy,Years Lost
+1,Whitman,Charles,8/1/1966,"Kathleen ""Kathy"" Whitman",23,1,0,1,wife,72.2,49.2
+1,Whitman,Charles,8/1/1966,Margaret Whitman,43,1,0,1,mother,48.7,5.7
+1,Whitman,Charles,8/1/1966,"Martin ""Mark"" Gabour",16,0,2,0,NA,65.6,49.6
+1,Whitman,Charles,8/1/1966,Marguerite Lamport,45,1,0,0,NA,48.7,3.7
+1,Whitman,Charles,8/1/1966,Edna Elizabeth Townsley,51,1,0,2,employee on campus,48.7,0
+1,Whitman,Charles,8/1/1966,Thomas Frederick Eckman,18,0,0,2,student,66.5,48.5
+1,Whitman,Charles,8/1/1966,Robert Hamilton Boyer,33,0,0,2,visiting professor,66.5,33.5
+1,Whitman,Charles,8/1/1966,Thomas Aquinas Ashton,22,0,0,2,student,66.5,44.5
+1,Whitman,Charles,8/1/1966,Karen Griffith,17,1,0,0,NA,72.2,55.2
+1,Whitman,Charles,8/1/1966,Thomas Ray Karr,24,0,0,2,student,66.5,42.5
+1,Whitman,Charles,8/1/1966,Claudia Rutt,18,1,0,0,NA,72.2,54.2
+1,Whitman,Charles,8/1/1966,Paul Bolton Sonntag,18,0,0,0,NA,66.5,48.5
+1,Whitman,Charles,8/1/1966,Billy Paul Speed,24,0,0,0,NA,66.5,42.5
+1,Whitman,Charles,8/1/1966,Roy Dell Schmidt,29,0,0,0,NA,66.5,37.5
+1,Whitman,Charles,8/1/1966,Harry Walchuk,38,0,0,2,student,66.5,28.5
+2,Smith,Robert,11/12/1966,Joyce Sellers,27,1,0,0,NA,72.2,45.2
+2,Smith,Robert,11/12/1966,Debra Sellers,3,1,0,0,NA,72.2,69.2
+2,Smith,Robert,11/12/1966,Glenda Carter,18,1,0,0,NA,72.2,54.2
+2,Smith,Robert,11/12/1966,Mary Olsen,18,1,0,0,NA,72.2,54.2
+2,Smith,Robert,11/12/1966,Carol Farmer,19,1,0,0,NA,72.2,53.2
+3,Held,Leo,10/23/1967,Allen E. Barrett Jr.,44,0,0,1,coworker,46.6,2.6
+3,Held,Leo,10/23/1967,Richard Davenport,32,0,0,1,coworker,66.5,34.5
+3,Held,Leo,10/23/1967,Donald V. Walden,31,0,0,1,coworker,66.5,35.5
+3,Held,Leo,10/23/1967,Carmen H. Edwards,62,0,0,1,supervisor,46.6,0
+3,Held,Leo,10/23/1967,Elmer Weaver,37,0,0,1,coworker,66.5,29.5
+3,Held,Leo,10/23/1967,Floyd Quiggle,27,0,0,1,neighbor,66.5,39.5
+4,Pearson,Eric,3/16/1968,Vienna Gustafson,41,1,0,1,neighbor,72.2,31.2
+4,Pearson,Eric,3/16/1968,Raymond Hautala,49,0,0,1,owned a service station that Pearson picked up orders from,46.6,0
+4,Pearson,Eric,3/16/1968,Sally Johnson,61,1,0,2,neighbor's mother,48.7,0
+4,Pearson,Eric,3/16/1968,Rudolph Maurin,56,0,0,1,romantic rival,46.6,0
+4,Pearson,Eric,3/16/1968,Helvi Puisto (Mrs. Axel Puisto),47,1,,0,NA,48.3,1.3
+4,Pearson,Eric,3/16/1968,Katherine Rigoni,59,1,0,0,NA,48.7,0
+4,Pearson,Eric,3/16/1968,Daniel Weiss,67,0,0,0,NA,78.1,11.1
+5,Lambright,Donald,4/5/1969,Ignatius Keenan,50,0,,0,NA,46.3,0
+5,Lambright,Donald,4/5/1969,Ruby Keenan,51,1,,0,NA,48.3,0
+5,Lambright,Donald,4/5/1969,Annette Lambright,31,1,1,1,wife,62.9,31.9
+5,Lambright,Donald,4/5/1969,Vincent Saitta,32,0,,0,NA,65.6,33.6
+6,White,Joseph,9/23/1970,Sandra L Peters,24,1,0,1,coworker,72.2,48.2
+6,White,Joseph,9/23/1970,Patricia Chromik,22,1,0,1,coworker,72.2,50.2
+6,White,Joseph,9/23/1970,Linda D. Willis,21,1,0,1,coworker,72.2,51.2
+6,White,Joseph,9/23/1970,Mary Ann Reinisch,27,1,0,1,coworker,72.2,45.2
+7,McLeod,Harvey Glenn,5/29/1972,Melvin D. Harrison Jr.,23,0,0,0,NA,66.5,43.5
+7,McLeod,Harvey Glenn,5/29/1972,James G. Henry,31,0,0,0,NA,66.5,35.5
+7,McLeod,Harvey Glenn,5/29/1972,Jessie B. West,77,1,0,0,NA,80.9,3.9
+7,McLeod,Harvey Glenn,5/29/1972,Jackie Wharton,47,1,0,0,NA,72.2,25.2
+8,Grace,Edwin,6/21/1972,Joseph Boyd,48,0,,0,NA,65.6,17.6
+8,Grace,Edwin,6/21/1972,Robert Bartone,22,0,,0,NA,65.6,43.6
+8,Grace,Edwin,6/21/1972,Joseph A. DePalma,44,0,,0,NA,65.6,21.6
+8,Grace,Edwin,6/21/1972,Theodore G Hall,38,0,,0,NA,65.6,27.6
+8,Grace,Edwin,6/21/1972,Charles Merkel,38,0,,0,NA,65.6,27.6
+8,Grace,Edwin,6/21/1972,Stephen B. Robinson,42,0,,0,NA,65.6,23.6
+9,Essex,Mark,1/7/1973,Frank Schneider,62,0,0,0,NA,46.6,0
+9,Essex,Mark,1/7/1973,Walter Sherwood Collins,46,0,0,0,NA,66.5,20.5
+9,Essex,Mark,1/7/1973,Paul Persigo,,0,0,0,NA,,0
+9,Essex,Mark,1/7/1973,Phillip Coleman,,0,0,0,NA,,0
+9,Essex,Mark,1/7/1973,Robert Vernon Steagall Jr,28,0,0,0,NA,66.5,38.5
+9,Essex,Mark,1/7/1973,"Elizabeth ""Betty"" Newton Day Steagall",25,1,0,0,NA,72.2,47.2
+9,Essex,Mark,1/7/1973,Louis Joseph Sirgo,48,0,0,0,NA,66.5,18.5
+10,Sander,Robert,3/2/1975,Gordon Knott,42,0,,0,NA,65.6,23.6
+10,Sander,Robert,3/2/1975,Shirley Gail Knott,31,1,,0,NA,71.1,40.1
+10,Sander,Robert,3/2/1975,Ella Beam,22,1,,0,NA,71.1,49.1
+10,Sander,Robert,3/2/1975,Percy Harmon,69,0,,0,NA,78.1,9.1
+10,Sander,Robert,3/2/1975,Barbara Harmon,58,1,,0,NA,48.3,0
+11,Allaway,Edward,7/12/1976,Paul F. Herzberg,30,0,0,1,coworker,66.5,36.5
+11,Allaway,Edward,7/12/1976,Bruce Jacobson,32,0,0,1,coworker,66.5,34.5
+11,Allaway,Edward,7/12/1976,Seth Fessenden,72,0,0,1,coworker,78.1,6.1
+11,Allaway,Edward,7/12/1976,Frank Teplansky,51,0,0,1,coworker,46.6,0
+11,Allaway,Edward,7/12/1976,Donald Karges,41,0,0,1,coworker,66.5,25.5
+11,Allaway,Edward,7/12/1976,Deborah Paulsen,25,1,0,1,coworker,72.2,47.2
+11,Allaway,Edward,7/12/1976,Stephen Becker,32,0,0,1,coworker,66.5,34.5
+12,Cowan,Fred,2/14/1977,Joseph Hicks,60,0,1,1,coworker,32.5,0
+12,Cowan,Fred,2/14/1977,Frederick Holmes,55,0,1,1,coworker,32.5,0
+12,Cowan,Fred,2/14/1977,James Green,45,0,1,1,coworker,59.1,14.1
+12,Cowan,Fred,2/14/1977,Pariyarathu Varghese,32,0,3,1,coworker,65.6,33.6
+12,Cowan,Fred,2/14/1977,Allen McLeod,33,0,0,0,NA,66.5,33.5
+13,Henry,Dewitt,7/23/1977,Gary Lee Anderson,27,0,,0,NA,65.6,38.6
+13,Henry,Dewitt,7/23/1977,Michael Mortenson,23,0,,0,NA,65.6,42.6
+13,Henry,Dewitt,7/23/1977,Robert David Seater,26,0,0,0,NA,66.5,40.5
+13,Henry,Dewitt,7/23/1977,Carrol Ann Seater,23,1,0,0,NA,72.2,49.2
+13,Henry,Dewitt,7/23/1977,James L Trueman,25,0,,0,NA,65.6,40.6
+13,Henry,Dewitt,7/23/1977,Andrew Lane Walker,22,0,,0,NA,65.6,43.6
+14,Benoist,Emile Pierre,8/26/1977,David J. Galvin,14,0,,0,NA,66.6,52.6
+14,Benoist,Emile Pierre,8/26/1977,Jeffrey L Gianquitti,19,0,,0,NA,66.6,47.6
+14,Benoist,Emile Pierre,8/26/1977,William Nagle,,0,,0,NA,,0
+14,Benoist,Emile Pierre,8/26/1977,Clifford C. Sowers,39,0,,0,NA,65.6,26.6
+14,Benoist,Emile Pierre,8/26/1977,Robert Visconti,35,0,,0,NA,65.6,30.6
+14,Benoist,Emile Pierre,8/26/1977,Stephen Werner,20,0,,0,NA,74.1,54.1
+15,Chin,Gan Fong,6/17/1978,Robert Lee,51,0,,1,boss,65.6,14.6
+15,Chin,Gan Fong,6/17/1978,John O'Dell,40,0,,1,coworker,65.6,25.6
+15,Chin,Gan Fong,6/17/1978,Danny Linn,48,0,,1,coworker,65.6,17.6
+15,Chin,Gan Fong,6/17/1978,Dorothy Johnston,38,1,0,1,coworker,72.2,34.2
+15,Chin,Gan Fong,6/17/1978,Cecila G. Bagity,66,1,,0,NA,83.1,17.1
+16,Chvarak,Barry,2/3/1980,Randy Wayne Steele,20,0,0,0,NA,67.4,47.4
+16,Chvarak,Barry,2/3/1980,Kathleen Lynn Austin,32,1,,0,NA,71.1,39.1
+16,Chvarak,Barry,2/3/1980,Marianne Laweka,53,1,,0,NA,71.1,18.1
+16,Chvarak,Barry,2/3/1980,Jana L. Carpenter,29,1,,0,NA,71.1,42.1
+16,Chvarak,Barry,2/3/1980,Fredrick Bergford,28,0,,0,NA,65.6,37.6
+17,King,Alvin,6/22/1980,Gene Gandy,50,0,0,0,NA,66.5,16.5
+17,King,Alvin,6/22/1980,"Mary Regina ""Gina"" Linam",7,1,0,0,NA,75.6,68.6
+17,King,Alvin,6/22/1980,"James Y. ""Red"" McDaniel",53,0,0,1,usher at church King used to attend,66.5,13.5
+17,King,Alvin,6/22/1980,Thelma Richardson,78,1,,0,NA,86.5,8.5
+17,King,Alvin,6/22/1980,Kenneth Truitt,49,0,0,1,usher at church that King used to attend,66.5,17.5
+18,Belmonte,Victor,7/21/1980,Lois Sima,57,1,,1,neighbor,48.3,0
+18,Belmonte,Victor,7/21/1980,Joseph A. Olinger,71,0,,1,neighbor,78.8,7.8
+18,Belmonte,Victor,7/21/1980,Andrew Price,25,0,,1,neighbor,67.4,42.4
+18,Belmonte,Victor,7/21/1980,Dorothy Glaser,59,1,,0,NA,48.3,0
+19,Moore,Lawrence,5/7/1981,John William Cooper,27,0,,0,NA,65.6,38.6
+19,Moore,Lawrence,5/7/1981,Lori J. Cunningham,22,1,,0,NA,73.1,51.1
+19,Moore,Lawrence,5/7/1981,Robert E. Hamblin,24,0,,0,NA,66.6,42.6
+19,Moore,Lawrence,5/7/1981,Allen L. Wilcox,24,0,,0,NA,66.6,42.6
+20,Bevins,William,10/16/1981,Roger Click,28,0,,1,friend,65.6,37.6
+20,Bevins,William,10/16/1981,Rufus Hamilton,42,0,,1,coworker,65.6,23.6
+20,Bevins,William,10/16/1981,Roger Hatfield,34,0,,0,NA,65.6,31.6
+20,Bevins,William,10/16/1981,Garvey Hamilton,28,0,,0,NA,65.6,37.6
+20,Bevins,William,10/16/1981,Michael Halbert,28,0,,0,NA,65.6,37.6
+21,Meach,Charles,5/3/1982,Joseph Dean Kimler,19,0,,0,NA,66.6,47.6
+21,Meach,Charles,5/3/1982,Vern J. Sylvester,19,0,,0,NA,66.6,47.6
+21,Meach,Charles,5/3/1982,Sabrina Lynn Imlach,16,1,,0,NA,74.7,58.7
+21,Meach,Charles,5/3/1982,Rebecca Dawn Phillips,16,1,,0,NA,74.7,58.7
+22,Parish,John,8/9/1982,Dave Bahl,28,0,,1,customer ,65.6,37.6
+22,Parish,John,8/9/1982,Wyvonne Kohler,45,1,,0,NA,71.1,26.1
+22,Parish,John,8/9/1982,Martin Douglas Moran,30,0,,1,supervisor,65.6,35.6
+22,Parish,John,8/9/1982,Moody Charles Smith,58,0,,1,supervisor,46.3,0
+22,Parish,John,8/9/1982,Richard Svoboda,37,0,,1,customer ,65.6,28.6
+22,Parish,John,8/9/1982,Eddie Eugene Ulrich,40,0,,1,supervisor,65.6,25.6
+23,Brown,Carl,8/20/1982,Nelson Barrios,46,0,2,2,Brown visited the shop where he worked the day before,65.6,19.6
+23,Brown,Carl,8/20/1982,Loni Jeffries,53,0,,2,Brown visited the shop where he worked the day before,65.6,12.6
+23,Brown,Carl,8/20/1982,Carl Lee,47,0,,2,Brown visited the shop where he worked the day before,65.6,18.6
+23,Brown,Carl,8/20/1982,Ernestine Moore,67,1,,2,Brown visited the shop where she worked the day before,83.3,16.3
+23,Brown,Carl,8/20/1982,Magnum Moore,78,0,,2,Brown visited the shop where he worked the day before,83.8,5.8
+23,Brown,Carl,8/20/1982,Martha Steelman,29,1,0,2,Brown visited the shop where she worked the day before,72.2,43.2
+23,Brown,Carl,8/20/1982,Juan Tres Palacios,38,0,2,2,Brown visited the shop where he worked the day before,65.6,27.6
+23,Brown,Carl,8/20/1982,Pedro Vasquez,43,0,2,2,Brown visited the shop where he worked the day before,65.6,22.6
+24,Leacock,Alban,2/3/1983,Christine Leacock,25,1,,1,wife,73.1,48.1
+24,Leacock,Alban,2/3/1983,Jacob Zimmer,61,0,,1,landlord/boss,46.3,0
+24,Leacock,Alban,2/3/1983,Unidentified male,20,0,,2,possible romantic rival,69.7,49.7
+24,Leacock,Alban,2/3/1983,Unidentified female,12,1,,1,goddaughter,74.7,62.7
+25,Hastings,Louis,3/1/1983,Maxine Beverly Edwards,52,1,0,1,neighbor,72.2,20.2
+25,Hastings,Louis,3/1/1983,"Florence Evelyn ""Flo"" Hegland",58,1,0,1,neighbor,72.2,14.2
+25,Hastings,Louis,3/1/1983,"Lester E. ""Les"" Hegland",64,0,0,1,neighbor,46.6,0
+25,Hastings,Louis,3/1/1983,Harley King,61,0,,1,neighbor,46.3,0
+25,Hastings,Louis,3/1/1983,Amy Lou Nash,25,1,,1,neighbor,73.1,48.1
+25,Hastings,Louis,3/1/1983,"Charles Timothy ""Tim"" Nash",37,0,,1,neighbor,65.6,28.6
+26,Moreno,Eliseo,10/11/1983,Ann M. Bennatt,70,1,,0,NA,83.3,13.3
+26,Moreno,Eliseo,10/11/1983,James Aubry Bennatt,62,0,,0,NA,46.3,0
+26,Moreno,Eliseo,10/11/1983,Russell Lynn Boyd,25,0,0,0,NA,67.4,42.4
+26,Moreno,Eliseo,10/11/1983,Esther Garza,31,1,2,1,sister-in-law,71.1,40.1
+26,Moreno,Eliseo,10/11/1983,Juan Garza,30,0,2,1,brother-in-law,65.6,35.6
+26,Moreno,Eliseo,10/11/1983,Allie Wilkins,79,1,,0,NA,86.5,7.5
+27,Silka,Michael,5/17/1984,Fred Burk,30,0,,2,possibly met before shooting,65.6,35.6
+27,Silka,Michael,5/17/1984,Larry Joe McVey,38,0,,2,possibly met before shooting,65.6,27.6
+27,Silka,Michael,5/17/1984,Dale Kevin Madajski,20,0,,2,possibly met before shooting,66.6,46.6
+27,Silka,Michael,5/17/1984,Joyce Klein,30,1,,2,possibly met before shooting,71.1,41.1
+27,Silka,Michael,5/17/1984,Lyman Klein,36,0,,2,possibly met before shooting,65.6,29.6
+27,Silka,Michael,5/17/1984,Marshall Klein,2,0,,0,NA,70.7,68.7
+27,Silka,Michael,5/17/1984,Albert Moulton Hagen Jr.,27,0,,2,possibly met before shooting,66.6,39.6
+27,Silka,Michael,5/19/1984,Troy Lynn Duncan,34,0,0,0,NA,66.5,32.5
+28,Belachheb,Abdelkrim,6/29/1984,Marcell Mae Ford,34,1,,1,ex-girlfriend,71.1,37.1
+28,Belachheb,Abdelkrim,6/29/1984,Ligia Kozlowski,45,1,,0,NA,71.1,26.1
+28,Belachheb,Abdelkrim,6/29/1984,Linda Lowe,43,1,,0,NA,71.1,28.1
+28,Belachheb,Abdelkrim,6/29/1984,Joseph John Minasi,36,0,,0,NA,65.6,29.6
+28,Belachheb,Abdelkrim,6/29/1984,Frank Parker,49,0,,0,NA,65.6,16.6
+28,Belachheb,Abdelkrim,6/29/1984,Janice Smith,46,1,,0,NA,71.1,25.1
+29,Huberty,James,7/18/1984,Elsa Herlinda Borboa-Firro,19,1,2,0,NA,74.7,55.7
+29,Huberty,James,7/18/1984,Neva Denise Caine,22,1,0,0,NA,75.6,53.6
+29,Huberty,James,7/18/1984,Michelle Deanne Carncross,18,1,,0,NA,74.7,56.7
+29,Huberty,James,7/18/1984,María Elena Colmenero-Silva,19,1,2,0,NA,74.7,55.7
+29,Huberty,James,7/18/1984,David Flores Delgado,11,0,2,0,NA,67.1,56.1
+29,Huberty,James,7/18/1984,Gloria López González,22,1,2,0,NA,73.1,51.1
+29,Huberty,James,7/18/1984,Omarr Alonso Hernandez,11,0,2,0,NA,67.1,56.1
+29,Huberty,James,7/18/1984,Blythe Regan Herrera,31,1,2,0,NA,71.1,40.1
+29,Huberty,James,7/18/1984,Matao Herrera,11,0,2,0,NA,67.1,56.1
+29,Huberty,James,7/18/1984,Paulina Aquino López,21,1,2,0,NA,73.1,52.1
+29,Huberty,James,7/18/1984,Margarita Padilla,18,1,2,0,NA,74.7,56.7
+29,Huberty,James,7/18/1984,Claudia Pérez Fuentes,9,1,2,0,NA,76.6,67.6
+29,Huberty,James,7/18/1984,Jose Rubén Lozano-Pérez,19,0,2,0,NA,67.1,48.1
+29,Huberty,James,7/18/1984,Carlos Reyes Jr.,1,0,2,0,NA,70,69
+29,Huberty,James,7/18/1984,Jackie Lynn Wright Reyes,18,1,2,0,NA,74.7,56.7
+29,Huberty,James,7/18/1984,Victor Maxmillian Rivera,25,0,2,0,NA,66.6,41.6
+29,Huberty,James,7/18/1984,Miguel Victoria-Ulloa,74,0,2,0,NA,78.8,4.8
+29,Huberty,James,7/18/1984,Arisdelsi Vuelvas-Vargas,31,1,2,0,NA,71.1,40.1
+29,Huberty,James,7/18/1984,Hugo Luis Velázquez Vazquez,45,0,2,0,NA,65.6,20.6
+29,Huberty,James,7/18/1984,Alicia Aida Velázquez Victoria,70,1,2,0,NA,83.3,13.3
+29,Huberty,James,7/18/1984,Laurence Herman Versluis,62,0,0,0,NA,46.6,0
+30,Crossley,Wayne,7/24/1984,Juanita Allen,45,1,,0,NA,71.1,26.1
+30,Crossley,Wayne,7/24/1984,Tom Altringer,34,0,,0,NA,65.6,31.6
+30,Crossley,Wayne,7/24/1984,Helen C. Frazee,58,1,,1,banned Crossley from bar,71.1,13.1
+30,Crossley,Wayne,7/24/1984,James F. Stephens,,0,,0,NA,,0
+31,Hammett,Mansel,3/16/1985,Donald Abbott,48,0,,1,supervisor,65.6,17.6
+31,Hammett,Mansel,3/16/1985,John Coligan,31,0,,1,supervisor,65.6,34.6
+31,Hammett,Mansel,3/16/1985,Paul Edward Gabelt,52,0,,1,supervisor,65.6,13.6
+31,Hammett,Mansel,3/16/1985,Ralph Tomaro,52,0,,1,supervisor,65.6,13.6
+32,Sherrill,Patrick,8/20/1986,Patricia Ann Chambers,41,1,,1,coworker,71.1,30.1
+32,Sherrill,Patrick,8/20/1986,Judy Stephens Denney,39,1,,1,coworker,71.1,32.1
+32,Sherrill,Patrick,8/20/1986,"Richard Charles ""Rick"" Esser, Jr.",38,0,,1,supervisor,65.6,27.6
+32,Sherrill,Patrick,8/20/1986,Patricia Ann Gabbard,47,1,0,1,coworker,72.2,25.2
+32,Sherrill,Patrick,8/20/1986,Jonna Gragert Hamilton,30,1,,1,coworker,73.1,43.1
+32,Sherrill,Patrick,8/20/1986,Patty Jean Husband,49,1,0,1,supervisor,72.2,23.2
+32,Sherrill,Patrick,8/20/1986,William F. Miller,30,0,,1,coworker,66.6,36.6
+32,Sherrill,Patrick,8/20/1986,Kenneth W. Morey,49,0,,1,coworker,65.6,16.6
+32,Sherrill,Patrick,8/20/1986,Betty Ann Jarred,34,1,,1,coworker,71.1,37.1
+32,Sherrill,Patrick,8/20/1986,Leroy Orrin Phillips,42,0,,1,coworker,65.6,23.6
+32,Sherrill,Patrick,8/20/1986,Jerry Ralph Pyle Jr,51,0,,1,coworker,65.6,14.6
+32,Sherrill,Patrick,8/20/1986,Paul Michael Rockne,33,0,,1,coworker,65.6,32.6
+32,Sherrill,Patrick,8/20/1986,Thomas Wade Shader Jr.,31,0,,1,coworker,66.6,35.6
+32,Sherrill,Patrick,8/20/1986,Patti Lou Welch,27,1,,1,coworker,73.1,46.1
+33,Cruse,William,4/23/1987,Emad Al-Tawakuly,18,0,4,0,NA,67.1,49.1
+33,Cruse,William,4/23/1987,Nabil Al-Hameli,25,0,4,0,NA,66.6,41.6
+33,Cruse,William,4/23/1987,Gerald Douglas Johnson,28,0,0,0,NA,67.4,39.4
+33,Cruse,William,4/23/1987,Ronald Midgely Grogan,27,0,0,0,NA,67.4,40.4
+33,Cruse,William,4/23/1987,Ruth Greene,67,1,,0,NA,83.9,16.9
+33,Cruse,William,4/23/1987,Lester Watson,52,0,,0,NA,65.6,13.6
+34,Farley,Richard,2/16/1988,Ronald Doney,36,0,,0,NA,65.6,29.6
+34,Farley,Richard,2/16/1988,Lawrence J. Kane,46,0,,1,former coworker,65.6,19.6
+34,Farley,Richard,2/16/1988,Helen Lamparter,49,1,,0,NA,71.1,22.1
+34,Farley,Richard,2/16/1988,Glenda Moritz,27,1,,0,NA,73.1,46.1
+34,Farley,Richard,2/16/1988,Ronald Steven Reed,26,0,0,0,NA,67.4,41.4
+34,Farley,Richard,2/16/1988,Joseph Lawrence Silva,43,0,,0,NA,65.6,22.6
+34,Farley,Richard,2/16/1988,"Wayne ""Buddy"" Williams Jr.",23,0,,0,NA,67.1,44.1
+35,Hayes,Michael,7/17/1988,Crystal Susan Cantrell,16,1,0,0,NA,75.6,59.6
+35,Hayes,Michael,7/17/1988,Melinda Yvonne Hayes,21,1,,0,NA,74.7,53.7
+35,Hayes,Michael,7/17/1988,Ronald Lee Hull,32,0,,0,NA,66.6,34.6
+35,Hayes,Michael,7/17/1988,Thomas Walter Nicholson,24,0,0,0,NA,67.4,43.4
+36,Henderson,Clemmie,9/22/1988,Arthur Baker,34,0,,0,NA,65.6,31.6
+36,Henderson,Clemmie,9/22/1988,John Van Dyke,41,0,,1,saw him regularly on street,65.6,24.6
+36,Henderson,Clemmie,9/22/1988,Robert Quinn,26,0,,1,saw him regularly on street,66.6,40.6
+36,Henderson,Clemmie,9/22/1988,Irma C. Ruiz,40,1,2,0,NA,71.1,31.1
+37,Purdy,Patrick,1/17/1989,Sokhim An,6,1,3,0,NA,77.4,71.4
+37,Purdy,Patrick,1/17/1989,Ram Chun,8,1,3,0,NA,77.4,69.4
+37,Purdy,Patrick,1/17/1989,Oeun Lim,8,1,3,0,NA,77.4,69.4
+37,Purdy,Patrick,1/17/1989,Rathanan Or,9,0,3,0,NA,70,61
+37,Purdy,Patrick,1/17/1989,Thuy Tran,6,1,3,0,NA,77.4,71.4
+38,Wesbecker,Joseph,9/14/1989,"Richard ""Dickie"" Barger",54,0,0,1,"friend, former coworker",66.5,12.5
+38,Wesbecker,Joseph,9/14/1989,Kenneth Fentress,45,0,0,1,former coworker,66.5,21.5
+38,Wesbecker,Joseph,9/14/1989,"James G. ""Buck"" Husband",47,0,0,1,former coworker,66.5,19.5
+38,Wesbecker,Joseph,9/14/1989,Sharon Needy,49,1,,1,former coworker,71.1,22.1
+38,Wesbecker,Joseph,9/14/1989,"William ""Bill"" Ganote",46,0,0,1,former coworker,66.5,20.5
+38,Wesbecker,Joseph,9/14/1989,Paul Sallee,60,0,0,1,former coworker,66.5,6.5
+38,Wesbecker,Joseph,9/14/1989,James Wible,56,0,0,1,former coworker,66.5,10.5
+38,Wesbecker,Joseph,9/14/1989,Lloyd White,42,0,0,1,former coworker,66.5,24.5
+38,Wesbecker,Joseph,9/14/1989,Unidentified person,,,,1,former coworker,,0
+39,Pough,James,6/17/1990,Louis Carl Bacon,39,0,,0,NA,65.6,26.6
+39,Pough,James,6/17/1990,Doretta Drake,30,1,,0,NA,73.1,43.1
+39,Pough,James,6/18/1990,Jewel Belote,50,1,,2,worked at office which repossesed Pough's car,71.1,21.1
+39,Pough,James,6/18/1990,Julia White Burgess,42,1,,0,NA,71.1,29.1
+39,Pough,James,6/18/1990,Janice David,40,1,,2,worked at office which repossesed Pough's car,71.1,31.1
+39,Pough,James,6/18/1990,Sharon Louise Hall,45,1,,2,worked at office which repossesed Pough's car,71.1,26.1
+39,Pough,James,6/18/1990,Denise Sapp Highfill,36,1,,2,worked at office which repossesed Pough's car,71.1,35.1
+39,Pough,James,6/18/1990,Barbara Duckwall Holland,45,1,,2,worked at office which repossesed Pough's car,71.1,26.1
+39,Pough,James,6/18/1990,Cynthia Perry,30,1,,2,worked at office which repossesed Pough's car,73.1,43.1
+39,Pough,James,6/18/1990,Lee M. Simonton,33,0,,2,worked at office which repossesed Pough's car,66.6,33.6
+39,Pough,James,6/18/1990,Drew Woods,38,0,,2,worked at office which repossesed Pough's car,65.6,27.6
+40,Harris,Joseph,10/10/1991,Cornelius Kasten Jr.,,0,,0,NA,,0
+40,Harris,Joseph,10/10/1991,Donald McNaught,63,0,,2,may have been former coworker,65.6,2.6
+40,Harris,Joseph,10/10/1991,Carol Ott,30,1,,1,former supervisor,73.1,43.1
+40,Harris,Joseph,10/10/1991,Joseph M. VanderPaauw,59,0,,2,may have been former coworker,65.6,6.6
+41,Hennard,George,10/16/1991,Patricia B. Carney,57,1,0,0,NA,72.2,15.2
+41,Hennard,George,10/16/1991,Jimmie Eugene Caruthers,48,0,,0,NA,65.6,17.6
+41,Hennard,George,10/16/1991,"Kriemhild ""Kitty"" Davis",62,1,0,0,NA,72.2,10.2
+41,Hennard,George,10/16/1991,Steven Charles Dody,43,0,0,0,NA,66.5,23.5
+41,Hennard,George,10/16/1991,"Alphonse ""Al"" Gratia",71,0,0,0,NA,80.2,9.2
+41,Hennard,George,10/16/1991,"Ursula Edith ""Suzy"" Gratia",67,1,0,0,NA,84.1,17.1
+41,Hennard,George,10/16/1991,Debra Gray,33,1,,0,NA,73.1,40.1
+41,Hennard,George,10/16/1991,Michael Griffith,48,0,0,0,NA,66.5,18.5
+41,Hennard,George,10/16/1991,Venice Ellen Henehan,70,1,,0,NA,83.9,13.9
+41,Hennard,George,10/16/1991,Clodine Delphia Humphrey,63,1,,0,NA,71.1,8.1
+41,Hennard,George,10/16/1991,Sylvia Mathilde King,30,1,,0,NA,73.1,43.1
+41,Hennard,George,10/16/1991,Zona Mae Hunnicutt Lynn,45,1,,0,NA,71.1,26.1
+41,Hennard,George,10/16/1991,Connie Deen Peterson,41,1,0,0,NA,72.2,31.2
+41,Hennard,George,10/16/1991,Ruth Marie Pujol,55,1,0,0,NA,72.2,17.2
+41,Hennard,George,10/16/1991,Su-Zann Neal Rashott,36,1,0,0,NA,74.1,38.1
+41,Hennard,George,10/16/1991,John Raymond Romero Jr.,33,0,2,0,NA,66.6,33.6
+41,Hennard,George,10/16/1991,Thomas Earl Simmons,33,0,,0,NA,66.6,33.6
+41,Hennard,George,10/16/1991,Glen Arval Spivey,55,0,,0,NA,66.6,11.6
+41,Hennard,George,10/16/1991,Nancy Faye Hedgepeth Stansbury,44,1,0,0,NA,72.2,28.2
+41,Hennard,George,10/16/1991,Olgica Andonovska Taylor,45,1,,0,NA,71.1,26.1
+41,Hennard,George,10/16/1991,James Walter Welsh,75,0,,0,NA,84.4,9.4
+41,Hennard,George,10/16/1991,Lula Belle Welsh,75,1,0,0,NA,87,12
+41,Hennard,George,10/16/1991,Iva Juanita Williams,64,1,0,0,NA,72.2,8.2
+42,Lu,Gang,11/1/1991,Theresa Anne Cleary,55,1,0,1,school administrator,72.2,17.2
+42,Lu,Gang,11/1/1991,Christoph K. Goertz,47,0,0,1,professor,66.5,19.5
+42,Lu,Gang,11/1/1991,Dwight Nicholson,44,0,0,1,professor,66.5,22.5
+42,Lu,Gang,11/1/1991,Robert A. Smith,45,0,0,1,professor,66.5,21.5
+42,Lu,Gang,11/1/1991,Linhua Shan,26,0,3,1,classmate,67.1,41.1
+43,Daigneau,Robert,11/9/1991,Fred Marion Alsman ,48,0,,0,NA,65.6,17.6
+43,Daigneau,Robert,11/9/1991,Thomas Earl Bannister,38,0,,0,NA,65.6,27.6
+43,Daigneau,Robert,11/9/1991,Donna Daigneau,33,1,,1,estranged wife,73.1,40.1
+43,Daigneau,Robert,11/9/1991,Palmer Lee Rousey,48,0,,0,NA,65.6,17.6
+44,McIlvane,Thomas,11/14/1991,Mary Ellen Benincasa,32,1,,1,former supervisor,73.1,41.1
+44,McIlvane,Thomas,11/14/1991,Christopher Louis Carlisle,33,0,,1,former supervisor,66.6,33.6
+44,McIlvane,Thomas,11/14/1991,Keith Cszewski,37,0,,1,former supervisor,66.6,29.6
+44,McIlvane,Thomas,11/14/1991,Rose Marie Proos,33,1,,1,former supervisor,73.1,40.1
+45,Rogovich,Pete,3/15/1992,Rebecca Kay Carreon,48,1,,0,NA,71.1,23.1
+45,Rogovich,Pete,3/15/1992,Phyllis Theresa Mancuso,61,1,0,0,NA,72.2,11.2
+45,Rogovich,Pete,3/15/1992,Tekleberhan Manna,24,0,1,0,NA,60,36
+45,Rogovich,Pete,3/15/1992,Marie Eamelia Pendergast,84,1,0,0,NA,86.5,2.5
+46,Houston,Eric,5/1/1992,Robert Brens,28,0,0,1,former teacher,67.4,39.4
+46,Houston,Eric,5/1/1992,"Judith ""Judy"" Davis",17,1,0,0,NA,77.3,60.3
+46,Houston,Eric,5/1/1992,Beamon Hill,16,0,1,0,NA,62.5,46.5
+46,Houston,Eric,5/1/1992,Jason Edward White,19,0,0,0,NA,69.5,50.5
+47,Miller,John,10/15/1992,Denise M. Van Amburg,28,1,,0,NA,73.1,45.1
+47,Miller,John,10/15/1992,Phyllis Caslin,54,1,,0,NA,71.1,17.1
+47,Miller,John,10/15/1992,Florence A. Pike,50,1,,1,previously met,71.1,21.1
+47,Miller,John,10/15/1992,Nancy J. Wheeler,48,1,,0,NA,71.1,23.1
+48,Drake III,Lynwood,11/8/1992,Danny Cizek,32,0,,0,NA,66.6,34.6
+48,Drake III,Lynwood,11/8/1992,Joe Garcia,60,0,,1,worked at a club Drake frequented,65.6,5.6
+48,Drake III,Lynwood,11/8/1992,David Law,47,0,,1,worked at a club Drake frequented,65.6,18.6
+48,Drake III,Lynwood,11/8/1992,Norman Metcalf,27,0,,1,former roommate,67.1,40.1
+48,Drake III,Lynwood,11/8/1992,Kris Staub,31,1,,1,worked at a club Drake frequented,73.1,42.1
+48,Drake III,Lynwood,11/8/1992,Andrew Zatko,80,0,,1,former landlord,84.4,4.4
+49,Ferri,Gian,7/1/1993,Allen J. Berk,52,0,,0,NA,65.6,13.6
+49,Ferri,Gian,7/1/1993,Jack Berman,36,0,0,0,NA,67.4,31.4
+49,Ferri,Gian,7/1/1993,Deborah Fogel,33,1,,0,NA,73.1,40.1
+49,Ferri,Gian,7/1/1993,Donald Michael Merrill,48,0,0,0,NA,66.5,18.5
+49,Ferri,Gian,7/1/1993,Shirley Mooser,64,1,0,0,NA,72.2,8.2
+49,Ferri,Gian,7/1/1993,John C. Scully,28,0,0,0,NA,68,40
+49,Ferri,Gian,7/1/1993,Jody Sposato,30,1,0,0,NA,74.1,44.1
+49,Ferri,Gian,7/1/1993,David Sutcliffe,30,0,0,0,NA,67.4,37.4
+50,French,Kenneth,8/6/1993,Wesley Scott Cover,26,0,0,0,NA,68,42
+50,French,Kenneth,8/6/1993,James F. Kidd,46,0,0,0,NA,66.5,20.5
+50,French,Kenneth,8/6/1993,Ethel Contos Parrous,65,1,0,0,NA,77,12
+50,French,Kenneth,8/6/1993,Peter Nicholas Parrous,73,0,0,0,NA,83.8,10.8
+51,Buquet,James,10/14/1993,Rebecca Negrete,31,1,,0,NA,73.1,42.1
+51,Buquet,James,10/14/1993,Laxmi Patel,19,,3,0,NA,72.6,53.6
+51,Buquet,James,10/14/1993,Helen-Mary Spatz,36,1,,0,NA,73.1,37.1
+51,Buquet,James,10/14/1993,Charles Brad Tucker,37,0,,0,NA,66.6,29.6
+52,Winterbourne,Alan,12/2/1993,Richard M. Bateman,65,0,,0,NA,80.6,15.6
+52,Winterbourne,Alan,12/2/1993,James Edward O'Brien,35,0,0,0,NA,67.4,32.4
+52,Winterbourne,Alan,12/2/1993,Anna F. Velasco,42,1,2,2,WInterbourne frequently visited unemployment office and may have met her,71.1,29.1
+52,Winterbourne,Alan,12/2/1993,Richard Villegas,43,0,2,2,WInterbourne frequently visited unemployment office and may have met him,65.6,22.6
+53,Ferguson,Colin,12/7/1993,Amy Federici,27,1,0,0,NA,75.6,48.6
+53,Ferguson,Colin,12/7/1993,James Gorycki,51,0,0,0,NA,66.5,15.5
+53,Ferguson,Colin,12/7/1993,Mi Kyung Kim,27,1,3,0,NA,74.7,47.7
+53,Ferguson,Colin,12/7/1993,Maria Theresa Magtoto,30,1,2,0,NA,73.1,43.1
+53,Ferguson,Colin,12/7/1993,Dennis F. McCarthy,52,0,,0,NA,65.6,13.6
+53,Ferguson,Colin,12/7/1993,Richard C. Nettleton,24,0,,0,NA,67.1,43.1
+54,Dunlap,Nathan,12/14/1993,Sylvia Crowell,19,1,0,1,former coworker,77.3,58.3
+54,Dunlap,Nathan,12/14/1993,Benjamin Grant,17,0,0,1,former coworker,69.5,52.5
+54,Dunlap,Nathan,12/14/1993,Margaret Kohlberg,50,1,0,1,former supervisor,72.2,22.2
+54,Dunlap,Nathan,12/14/1993,Colleen O'Connor,17,1,0,1,former coworker,77.3,60.3
+55,Mellberg,Dean,6/20/1994,Thomas Brigham,31,0,0,1,evaluated Mellberg,67.4,36.4
+55,Mellberg,Dean,6/20/1994,Alan London,40,0,,1,evaluated Mellberg,65.6,25.6
+55,Mellberg,Dean,6/20/1994,Christine McCaren,8,1,,0,NA,78.8,70.8
+55,Mellberg,Dean,6/20/1994,Anita Linder,62,1,0,0,NA,72.2,10.2
+56,Ferguson,Rodriguez,12/31/1994,Deborah Hunter,37,1,,0,NA,73.1,36.1
+56,Ferguson,Rodriguez,12/31/1994,Jamie Hunter,39,0,,0,NA,66.6,27.6
+56,Ferguson,Rodriguez,12/31/1994,Steve Locklear,18,0,,1,acquaintance,70,52
+56,Ferguson,Rodriguez,12/31/1994,Timothy Powell,20,0,,0,NA,68.8,48.8
+56,Ferguson,Rodriguez,1/1/1995,James Morrison,28,0,,1,acquaintance,67.1,39.1
+57,Simpson,James,4/3/1995,Wendy P. Gilmore,41,1,0,1,former coworker,72.2,31.2
+57,Simpson,James,4/3/1995,Derek Harrison,35,0,0,1,former coworker,67.4,32.4
+57,Simpson,James,4/3/1995,Joann Rossler,62,1,0,1,former boss,72.2,10.2
+57,Simpson,James,4/3/1995,Walter Charles Rossler,62,0,0,1,former boss,66.5,4.5
+57,Simpson,James,4/3/1995,Richard Tomlinson,34,0,0,1,former coworker,67.4,33.4
+58,Woods,Willie,7/19/1995,Neil Carpenter,61,0,,1,supervisor,65.6,4.6
+58,Woods,Willie,7/19/1995,Anthony J. Gain,78,0,,1,supervisor,84.4,6.4
+58,Woods,Willie,7/19/1995,James Walton,60,0,,1,supervisor,65.6,5.6
+58,Woods,Willie,7/19/1995,Marty Wakefield,57,0,,1,supervisor,65.6,8.6
+59,Vernon,Michael,12/19/1995,Kwong Bae,41,1,3,0,NA,71.1,30.1
+59,Vernon,Michael,12/19/1995,Maria Carrasquillo,38,1,2,0,NA,73.1,35.1
+59,Vernon,Michael,12/19/1995,Rafael Gonzalez,12,0,2,0,NA,70,58
+59,Vernon,Michael,12/19/1995,Ricardo Gonzalez,13,0,2,0,NA,70,57
+59,Vernon,Michael,12/19/1995,Henry Lucero Inga,22,0,2,0,NA,67.1,45.1
+60,McCree,Clifton,2/9/1996,Joseph Belotto,40,0,0,1,former coworker,67.4,27.4
+60,McCree,Clifton,2/9/1996,Kenneth A. Brunjes,46,0,0,1,former coworker,66.5,20.5
+60,McCree,Clifton,2/9/1996,Mark A. Bretz,36,0,0,1,former coworker,67.4,31.4
+60,McCree,Clifton,2/9/1996,Joseph Timothy Clifford,37,0,0,1,former supervisor,67.4,30.4
+60,McCree,Clifton,2/9/1996,Donald Leroy Moon Jr.,44,0,0,1,former coworker,66.5,22.5
+61,Tornes,Kenneth,4/24/1996,Stanley Adams,45,0,0,1,supervisor,66.5,21.5
+61,Tornes,Kenneth,4/24/1996,Dwight Craft,48,0,0,1,supervisor,66.5,18.5
+61,Tornes,Kenneth,4/24/1996,Merideth Moree,49,1,0,1,supervisor,72.2,23.2
+61,Tornes,Kenneth,4/24/1996,Rick Robbins,47,0,0,1,supervisor,66.5,19.5
+61,Tornes,Kenneth,4/24/1996,Glenda Tornes,42,1,,1,wife,71.1,29.1
+62,Drega,Carl,8/19/1997,Vickie Marie Bunnell,45,1,0,1,lived in same town and Drega had previous disputes with town government,72.2,27.2
+62,Drega,Carl,8/19/1997,Dennis Joos,51,0,0,1,lived in same town and Drega had previous disputes with town government,66.5,15.5
+62,Drega,Carl,8/19/1997,Leslie G. Lord,45,0,0,1,lived in same town and Drega had previous disputes with town government,66.5,21.5
+62,Drega,Carl,8/19/1997,Scott E. Phillips,32,0,0,1,lived in same town and Drega had previous disputes with town government,68,36
+63,Wise,Hastings Arthur,9/15/1997,Ernest Leonard Filyaw Jr.,31,0,0,1,former coworker,68,37
+63,Wise,Hastings Arthur,9/15/1997,Charles Griffeth,56,0,0,1,former coworker,66.5,10.5
+63,Wise,Hastings Arthur,9/15/1997,David Moore,30,0,0,1,former coworker,68,38
+63,Wise,Hastings Arthur,9/15/1997,Esther Sheryl Wood,27,1,0,1,former coworker,75.6,48.6
+64,Serrano,Nelson,12/3/1997,Frank Dosso,35,0,0,1,former work acquaintances,67.4,32.4
+64,Serrano,Nelson,12/3/1997,George Gonsalves,69,0,2,1,former business partner,80.6,11.6
+64,Serrano,Nelson,12/3/1997,Diane Dosso Patisso,28,1,0,1,former work acquaintances,75.6,47.6
+64,Serrano,Nelson,12/3/1997,George Patisso Jr.,27,0,0,1,former work acquaintances,68,41
+65,Torres,Arturo,12/18/1997,Hal Bruce Bierlein,51,0,0,1,former supervisor,66.5,15.5
+65,Torres,Arturo,12/18/1997,Wayne Allen Bowers,43,0,0,1,former coworker,66.5,23.5
+65,Torres,Arturo,12/18/1997,Michael James Kelley,49,0,0,1,former coworker,66.5,17.5
+65,Torres,Arturo,12/18/1997,Paul White,40,0,0,1,former coworker,67.4,27.4
+66,Beck,Matthew,3/6/1998,Otho R. Brown,54,0,0,1,supervisor,66.5,12.5
+66,Beck,Matthew,3/6/1998,Michael T. Logan,33,0,0,1,supervisor,68,35
+66,Beck,Matthew,3/6/1998,Linda A. Blogoslawski Mlynarczyk,38,1,0,1,supervisor,74.1,36.1
+66,Beck,Matthew,3/6/1998,Frederick W. Rubelmann III,40,0,0,1,supervisor,67.4,27.4
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/1998,Natalie Brooks,11,1,0,1,classmate,79.4,68.4
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/1998,Paige Ann Herring,12,1,0,1,classmate,79.4,67.4
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/1998,Stephanie Johnson,12,1,0,1,classmate,79.4,67.4
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/1998,Britthney Varner-Wilson,11,1,0,1,classmate,79.4,68.4
+"67, 68","Golden, Johnson","Andrew, Mitchell",3/24/1998,Shannon Wright,32,1,0,1,teacher,75.6,43.6
+69,Kinkel,Kip,5/20/1998,Bill Kinkel,59,0,0,1,father,66.5,7.5
+69,Kinkel,Kip,5/20/1998,Faith Kinkel,57,1,0,1,mother,72.2,15.2
+69,Kinkel,Kip,5/20/1998,Mikael Nickolauson,17,0,0,1,classmate,70.7,53.7
+69,Kinkel,Kip,5/20/1998,Ben Walker,16,0,0,1,classmate,70.7,54.7
+70,Miller,Shon,3/10/1999,Vaniaro Jackson,19,0,,0,NA,70,51
+70,Miller,Shon,3/10/1999,Carla Miller,25,1,1,1,estranged wife,71.3,46.3
+70,Miller,Shon,3/10/1999,Shon Miller Jr.,2,0,1,1,son,65.2,63.2
+70,Miller,Shon,3/10/1999,Mildred Vessel,53,1,1,1,mother-in-law,62.9,9.9
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Cassie Bernall,17,1,0,2,"classmate, possibly known",78.1,61.1
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Steven Curnow,14,0,0,2,"classmate, possibly known",72.7,58.7
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Corey DePooter,17,0,0,2,"classmate, possibly known",70.7,53.7
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Kelly Fleming,16,1,0,2,"classmate, possibly known",78.1,62.1
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Matthew Kechter,16,0,0,2,"classmate, possibly known",70.7,54.7
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Daniel Mauser,15,0,0,2,"classmate, possibly known",70.7,55.7
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Daniel Rohrbough,15,0,0,1,"classmate, definitely known",70.7,55.7
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,"William ""Dave"" Sanders",47,0,0,1,teacher,66.5,19.5
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Rachel Scott,17,1,0,1,"classmate, definitely known",78.1,61.1
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Isaiah Shoels,18,0,1,2,"classmate, possibly known",63.8,45.8
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,John Tomlin,16,0,0,2,"classmate, possibly known",70.7,54.7
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Lauren Townsend,18,1,0,2,"classmate, possibly known",78.1,60.1
+"71, 72","Klebold, Harris","Dylan, Eric",4/20/1999,Kyle Velasquez,16,0,2,2,"classmate, possibly known",70,54
+73,Floyd,Zane,6/3/1999,Thomas Darnell,40,0,0,0,NA,74.1,34.1
+73,Floyd,Zane,6/3/1999,"Carlos ""Chuck"" Leos",41,0,2,0,NA,66.6,25.6
+73,Floyd,Zane,6/3/1999,Dennis Troy Sargent,29,0,0,0,NA,68,39
+73,Floyd,Zane,6/3/1999,Luci Tarantino,60,1,0,0,NA,72.2,12.2
+74,Barton,Mark,7/27/1999,Leigh Ann Vandiver Barton,27,1,0,1,wife,75.6,48.6
+74,Barton,Mark,7/28/1999,Matthew David Barton,11,0,0,1,son,72.7,61.7
+74,Barton,Mark,7/28/1999,Mychelle Elizabeth Barton,8,1,0,1,daughter,79.4,71.4
+74,Barton,Mark,7/29/1999,Russell J. Brown,42,0,,2,may have met at the brokerage house both traded at,66.6,24.6
+74,Barton,Mark,7/29/1999,Dean Delawalla,52,0,3,2,may have met at the brokerage house both traded at,65.6,13.6
+74,Barton,Mark,7/29/1999,Joseph J. Dessert,60,0,,2,may have met at the brokerage house both traded at,65.6,5.6
+74,Barton,Mark,7/29/1999,Kevin Middleton Dial,38,0,0,1,office manager of brokerage house Barton frequented,67.4,29.4
+74,Barton,Mark,7/29/1999,Jamshid Havash,45,0,4,2,may have met at the brokerage house both traded at,65.6,20.6
+74,Barton,Mark,7/29/1999,Vadewattee Muralidhara,44,1,3,0,NA,71.1,27.1
+74,Barton,Mark,7/29/1999,Edward Quinn,58,0,,2,may have met at the brokerage house both traded at,65.6,7.6
+74,Barton,Mark,7/29/1999,Allen Charles Tenenbaum,48,0,0,2,may have met at the brokerage house both traded at,66.5,18.5
+74,Barton,Mark,7/29/1999,Scott Allyn Webb,30,0,,2,may have met at the brokerage house both traded at,67.1,37.1
+75,Ashbrook,Larry,9/15/1999,Kristi Kathleen Beckel,14,1,0,0,NA,79.4,65.4
+75,Ashbrook,Larry,9/15/1999,Shawn Brown,23,0,0,0,NA,70.7,47.7
+75,Ashbrook,Larry,9/15/1999,Sydney Rochelle Browning,36,1,0,0,NA,74.1,38.1
+75,Ashbrook,Larry,9/15/1999,"Joseph Daniel ""Joey"" Ennis",14,0,0,0,NA,72.7,58.7
+75,Ashbrook,Larry,9/15/1999,Cassandra Fawn Griffin,14,1,0,0,NA,79.4,65.4
+75,Ashbrook,Larry,9/15/1999,"Susan Kimberly ""Kim"" Jones",23,1,0,0,NA,78.1,55.1
+75,Ashbrook,Larry,9/15/1999,Justin Michael Stegner Ray,17,0,0,0,NA,70.7,53.7
+76,Uyesugi,Byran,11/2/1999,Jason Balatico,33,0,3,1,coworker,67.1,34.1
+76,Uyesugi,Byran,11/2/1999,Ford Kanehira,41,0,3,1,coworker,66.6,25.6
+76,Uyesugi,Byran,11/2/1999,Ronald Kataoka,50,0,3,1,coworker,65.6,15.6
+76,Uyesugi,Byran,11/2/1999,Ronald Kawamae,54,0,3,1,coworker,65.6,11.6
+76,Uyesugi,Byran,11/2/1999,Melvin Lee,58,0,3,1,coworker,65.6,7.6
+76,Uyesugi,Byran,11/2/1999,Peter Mark,46,0,3,1,coworker,65.6,19.6
+76,Uyesugi,Byran,11/2/1999,John Sakamoto,36,0,3,1,coworker,66.6,30.6
+77,Izquierdo-Leyva,Silvio,12/30/1999,Jose Aguilar,40,0,2,1,coworker,66.6,26.6
+77,Izquierdo-Leyva,Silvio,12/30/1999,Barbara Carter,55,1,,1,coworker,71.1,16.1
+77,Izquierdo-Leyva,Silvio,12/30/1999,George Jones,43,0,,1,coworker,66.6,23.6
+77,Izquierdo-Leyva,Silvio,12/30/1999,Eric Pedroso,29,0,2,1,coworker,67.1,38.1
+77,Izquierdo-Leyva,Silvio,12/30/1999,Dolores Perdomo,56,1,2,0,NA,71.1,15.1
+78,Harris,Robert,3/20/2000,Roberto Jimenez Jr.,15,0,2,1,former coworker,71.8,56.8
+78,Harris,Robert,3/20/2000,Dennis Lee,48,0,0,1,former supervisor,66.5,18.5
+78,Harris,Robert,3/20/2000,Augustin Villasenor,36,0,2,1,former supervisor,66.6,30.6
+78,Harris,Robert,3/20/2000,Benjamin Villasenor,32,0,2,1,former coworker,67.1,35.1
+78,Harris,Robert,3/20/2000,Rhoda Wheeler,46,1,0,1,former coworker,72.2,26.2
+79,Baumhammers,Richard,4/28/2000,"Anita ""Nicki"" Gordon",63,1,0,1,neighbor,72.2,9.2
+79,Baumhammers,Richard,4/28/2000,Garry Dewane Lee,22,0,1,0,NA,63.8,41.8
+79,Baumhammers,Richard,4/28/2000,"Thao ""Tony"" Pham",27,0,3,0,NA,68.8,41.8
+79,Baumhammers,Richard,4/28/2000,"Ji-ye ""Jerry"" Sun",34,0,3,0,NA,67.1,33.1
+79,Baumhammers,Richard,4/28/2000,Anil Thakur,31,0,3,0,NA,67.1,36.1
+80,McDermott,Michael,12/26/2000,Jennifer Bragg Capobianco,29,1,0,1,coworker,75.6,46.6
+80,McDermott,Michael,12/26/2000,Janice Hagerty,46,1,,1,coworker,71.1,25.1
+80,McDermott,Michael,12/26/2000,Louis Javelle,58,0,0,1,coworker,66.5,8.5
+80,McDermott,Michael,12/26/2000,Rose M. Manfredi,48,1,0,1,coworker,72.2,24.2
+80,McDermott,Michael,12/26/2000,Paul Marceau,36,0,0,1,coworker,67.4,31.4
+80,McDermott,Michael,12/26/2000,Cheryl Troy,50,1,0,1,coworker,72.2,22.2
+80,McDermott,Michael,12/26/2000,Craig Wood,29,0,0,1,coworker,68,39
+81,Park,Ki Yung,1/9/2001,Chong Chang,58,0,3,1,business acquaintance,65.6,7.6
+81,Park,Ki Yung,1/9/2001,Hyung Chang,54,1,3,1,business acquaintance,71.1,17.1
+81,Park,Ki Yung,1/9/2001,Kathy Chang,23,1,3,1,business acquaintance,77.4,54.4
+81,Park,Ki Yung,1/9/2001,Byong Sun Park,42,1,3,1,estranged wife,73.1,31.1
+82,Baker,William,2/5/2001,Michael Victor Brus,48,0,0,1,former coworker,66.5,18.5
+82,Baker,William,2/5/2001,Daniel Thomas Dorsch,52,0,,1,former coworker,65.6,13.6
+82,Baker,William,2/5/2001,William Allen Garcia,44,0,,1,former coworker,66.6,22.6
+82,Baker,William,2/5/2001,Robert Edward Wehrheim,47,0,,0,NA,65.6,18.6
+83,Stagner,Steven,7/3/2001,Juan Manuel Hernandez-Carrillo,44,0,2,0,NA,66.6,22.6
+83,Stagner,Steven,7/3/2001,Melquiades Medrano-Velasquez,23,0,2,0,NA,70,47
+83,Stagner,Steven,7/3/2001,Juan Carlos Medrano-Velasquez,22,0,2,0,NA,70,48
+83,Stagner,Steven,7/3/2001,Angelica Toscano,19,1,2,0,NA,77.4,58.4
+84,Ferguson,Joseph,9/8/2001,George Bernardino,48,0,3,1,coworker,65.6,17.6
+84,Ferguson,Joseph,9/8/2001,John Derek Glimstad,19,0,0,0,NA,70.7,51.7
+84,Ferguson,Joseph,9/8/2001,Marsha Marie Jackson,32,1,1,1,coworker,68.3,36.3
+84,Ferguson,Joseph,9/8/2001,Nina Susu,20,1,0,1,ex-girlfriend,78.1,58.1
+84,Ferguson,Joseph,9/9/2001,Nikolay Popovich,28,0,0,1,supervisor,69.5,41.5
+85,Lockey,William,3/22/2002,Dave Arpasi,73,0,,1,coworkers,80.6,7.6
+85,Lockey,William,3/22/2002,John Contadeluci,47,0,,1,coworkers,66.6,19.6
+85,Lockey,William,3/22/2002,Robert Downs Jr.,42,0,0,1,coworkers,67.4,25.4
+85,Lockey,William,3/22/2002,Craig Schafer,51,0,,1,coworkers,65.6,14.6
+86,Patterson,Emanuel Burl,2/25/2003,Benjamin Ferguson,47,0,,1,fellow jobseeker,66.6,19.6
+86,Patterson,Emanuel Burl,2/25/2003,Billy Wayne Knox Sr.,61,0,,1,fellow jobseeker,65.6,4.6
+86,Patterson,Emanuel Burl,2/25/2003,Billy Eugene Knox Jr.,22,0,,1,fellow jobseeker,70,48
+86,Patterson,Emanuel Burl,2/25/2003,David Seiler,46,0,,1,fellow jobseeker,66.6,20.6
+87,Williams,Doug,7/8/2003,DeLois Bailey,53,1,1,1,coworker,62.9,9.9
+87,Williams,Doug,7/8/2003,Sam Cockrell,46,0,1,1,coworker,61.1,15.1
+87,Williams,Doug,7/8/2003,Micky Fitzgerald,45,0,0,1,coworker,67.4,22.4
+87,Williams,Doug,7/8/2003,Lynette McCall,47,1,1,1,coworker,66.3,19.3
+87,Williams,Doug,7/8/2003,Charlie J. Miller,58,0,1,1,coworker,59.1,1.1
+87,Williams,Doug,7/8/2003,Thomas Willis,57,0,1,1,coworker,59.1,2.1
+88,Tapia,Salvador,8/27/2003,Calvin Ramsey,44,0,,1,former coworker,66.6,22.6
+88,Tapia,Salvador,8/27/2003,Robert Taylor,53,0,,1,former coworker,65.6,12.6
+88,Tapia,Salvador,8/27/2003,Juan Valles,34,0,2,1,former coworker,67.1,33.1
+88,Tapia,Salvador,8/27/2003,Alan Earl Weiner,50,0,,1,former coworker,65.6,15.6
+88,Tapia,Salvador,8/27/2003,Daniel Weiner,30,0,,1,former coworker,68.8,38.8
+88,Tapia,Salvador,8/27/2003,Howard Weiner,59,0,,1,former coworker,65.6,6.6
+89,Reeves,Ralph,10/24/2003,Chester W. Cavaliere,62,0,,0,NA,65.6,3.6
+89,Reeves,Ralph,10/24/2003,"Henry ""Hank"" Franklin Shumake",63,0,,0,NA,65.6,2.6
+89,Reeves,Ralph,10/24/2003,LeRoy G. Wiese,84,0,,0,NA,84.7,0.7
+89,Reeves,Ralph,10/24/2003,Tiki Danielle Wiese,41,1,,1,ex-girlfriend,73.1,32.1
+90,Brown,Elijah,7/2/2004,Ardell L. Edwards,55,0,1,1,coworker,59.1,4.1
+90,Brown,Elijah,7/2/2004,Lonnie Ellenberg,46,0,1,1,coworker,61.1,15.1
+90,Brown,Elijah,7/2/2004,Jose Ibarra,45,0,2,1,coworker,66.6,21.6
+90,Brown,Elijah,7/2/2004,Travis Lamont Nelson,23,0,1,1,coworker,63.8,40.8
+90,Brown,Elijah,7/2/2004,Leonardo Rodriguez,49,0,2,1,coworker,66.6,17.6
+91,Vang,Chai,11/21/2004,"Robert ""Bob"" Crotteau",42,0,0,0,NA,67.4,25.4
+91,Vang,Chai,11/21/2004,Joey Crotteau,20,0,0,0,NA,70.7,50.7
+91,Vang,Chai,11/21/2004,"Dennis ""Denny"" Drew",55,0,0,0,NA,66.5,11.5
+91,Vang,Chai,11/21/2004,"Allan James ""Al"" Laski",43,0,0,0,NA,67.4,24.4
+91,Vang,Chai,11/21/2004,Mark Roidt,28,0,0,0,NA,69.5,41.5
+91,Vang,Chai,11/21/2004,Jessica Willers,27,1,0,0,NA,77.3,50.3
+92,Gale,Nathan,12/8/2004,"Darrell ""Dimebag"" Abbott",38,0,0,0,"They had never met, but Gale targeted Abbott ",68,30
+92,Gale,Nathan,12/8/2004,Erin Alexander Halk,29,0,0,0,NA,69.5,40.5
+92,Gale,Nathan,12/8/2004,Nathan Anthony Bray,23,0,0,0,NA,70.7,47.7
+92,Gale,Nathan,12/8/2004,"Jeffery ""Mayhem"" Thompson",40,0,0,0,NA,67.4,27.4
+93,Nichols,Brian,3/11/2005,Rowland Wayne Barnes,64,0,0,1,oversaw Nichols's trial prior to shooting,66.5,2.5
+93,Nichols,Brian,3/11/2005,Julie Ann Brandau,46,1,0,0,NA,74.1,28.1
+93,Nichols,Brian,3/11/2005,Hoyt Keith Teasley,43,0,1,0,NA,61.1,18.1
+93,Nichols,Brian,3/11/2005,David Gray Wilhelm,40,0,0,0,NA,68,28
+94,Ratzmann,Terry,3/12/2005,Gloria Sue Critari,55,1,,1,fellow church member,71.1,16.1
+94,Ratzmann,Terry,3/12/2005,Harold Diekmeier,74,0,0,1,fellow church member,80.7,6.7
+94,Ratzmann,Terry,3/12/2005,James Isaac Gregory,16,0,,1,fellow church member,71.8,55.8
+94,Ratzmann,Terry,3/12/2005,Randy Lynn Gregory,51,0,,1,fellow church member,65.6,14.6
+94,Ratzmann,Terry,3/12/2005,Gerald Anthony Miller,44,0,0,1,fellow church member,67.4,23.4
+94,Ratzmann,Terry,3/12/2005,Bart J. Oliver,15,0,0,1,fellow church member,72.7,57.7
+94,Ratzmann,Terry,3/12/2005,Richard Reeves,58,0,,1,fellow church member,65.6,7.6
+95,Weise,Jeffrey,3/21/2005,Derrick Brun,28,0,5,1,school security guard,68.8,40.8
+95,Weise,Jeffrey,3/21/2005,Dewayne Lewis,15,0,5,1,classmate,71.8,56.8
+95,Weise,Jeffrey,3/21/2005,Chase Lussier,15,0,5,1,classmate,71.8,56.8
+95,Weise,Jeffrey,3/21/2005,"Daryl ""Dash"" Lussier",58,0,5,1,grandfather,65.6,7.6
+95,Weise,Jeffrey,3/21/2005,Neva Rogers,62,1,0,1,teacher,72.2,10.2
+95,Weise,Jeffrey,3/21/2005,Chanelle Rosebear,15,1,5,1,classmate,78.8,63.8
+95,Weise,Jeffrey,3/21/2005,Michelle Sigana,32,1,5,1,grandfather's girlfriend,76.6,44.6
+95,Weise,Jeffrey,3/21/2005,Thurlene Stillday,15,1,5,1,classmate,78.8,63.8
+95,Weise,Jeffrey,3/21/2005,Alicia White,15,1,5,1,classmate,78.8,63.8
+96,Cranshaw,Freddy,8/28/2005,James Wayne Armstrong,42,0,,1,neighboring church pastor,66.6,24.6
+96,Cranshaw,Freddy,8/28/2005,Ernest Wesley Brown,61,0,,1,neighboring church leader,65.6,4.6
+96,Cranshaw,Freddy,8/28/2005,Holly Ann Love Brown,50,1,,0,NA,73.1,23.1
+96,Cranshaw,Freddy,8/28/2005,Ceri Litterio,46,1,,0,NA,73.1,27.1
+97,San Marco,Jennifer,1/30/2006,Ze Vang Fairchild,37,1,3,2,likely a former coworker,74.7,37.7
+97,San Marco,Jennifer,1/30/2006,Beverly Ann Graham,54,1,0,1,former neighbor,72.2,18.2
+97,San Marco,Jennifer,1/30/2006,Nicola Michelle Grant,42,1,1,2,likely a former coworker,66.3,24.3
+97,San Marco,Jennifer,1/30/2006,Maleka M. Higgins,28,1,1,2,likely a former coworker,72.5,44.5
+97,San Marco,Jennifer,1/30/2006,Dexter E. Shannon,57,0,1,2,likely a former coworker,59.1,2.1
+97,San Marco,Jennifer,1/30/2006,Guadalupe Swartz,52,1,2,2,likely a former coworker,71.1,19.1
+97,San Marco,Jennifer,1/30/2006,Charlotte Colton,44,1,3,2,likely a former coworker,73.1,29.1
+98,Huff,Kyle,3/25/2006,Jeremy Robert Martin,26,0,0,0,NA,70.7,44.7
+98,Huff,Kyle,3/25/2006,Melissa Moore,14,1,3,0,NA,78.8,64.8
+98,Huff,Kyle,3/25/2006,Justin Schwartz,22,0,5,0,NA,70,48
+98,Huff,Kyle,3/25/2006,Suzanne Thorne,15,1,0,0,NA,79.4,64.4
+98,Huff,Kyle,3/25/2006,Jason Travers,32,0,0,0,NA,69.5,37.5
+98,Huff,Kyle,3/25/2006,Christopher Williamson,21,0,0,0,NA,72.7,51.7
+99,Bell,Anthony,5/21/2006,Erica Bell,24,1,1,1,wife,72.5,48.5
+99,Bell,Anthony,5/21/2006,Gloria Howard,72,1,1,1,in-law,82.5,10.5
+99,Bell,Anthony,5/21/2006,Leonard Howard,78,0,1,1,in-law,84.2,6.2
+99,Bell,Anthony,5/21/2006,Doloris McGrew,67,1,1,1,in-law,83.3,16.3
+99,Bell,Anthony,5/21/2006,Darlene Mills Selvage,47,1,1,1,in-law,66.3,19.3
+100,Roberts,Charles,10/2/2006,Naomi Rose Ebersol,7,1,0,2,Roberts delivered milk to the community and she may have known him,79.9,72.9
+100,Roberts,Charles,10/2/2006,Marian Stoltzfus Fisher,13,1,0,2,Roberts delivered milk to the community and she may have known him,79.6,66.6
+100,Roberts,Charles,10/2/2006,Lena Zook Miller,7,1,0,2,Roberts delivered milk to the community and she may have known him,79.9,72.9
+100,Roberts,Charles,10/2/2006,Mary Liz Miller,8,1,0,2,Roberts delivered milk to the community and she may have known him,79.9,71.9
+100,Roberts,Charles,10/2/2006,Anna Mae Stoltzfus,12,1,0,2,Roberts delivered milk to the community and she may have known him,79.6,67.6
+101,Talovic,Sulejman,2/12/2007,Teresa Ellis,29,1,0,0,NA,78.1,49.1
+101,Talovic,Sulejman,2/12/2007,Brad Frantz,24,0,0,0,NA,70.7,46.7
+101,Talovic,Sulejman,2/12/2007,Kirsten Hinckley,15,1,0,0,NA,79.4,64.4
+101,Talovic,Sulejman,2/12/2007,Vanessa Quinn,29,1,0,0,NA,78.1,49.1
+101,Talovic,Sulejman,2/12/2007,Jeffery Walker,52,0,0,0,NA,67.4,15.4
+102,Cho,Seung-Hui,4/16/2007,Ross Abdallah Alameddine,20,0,4,1,classmate,71.8,51.8
+102,Cho,Seung-Hui,4/16/2007,Christopher James Bishop,35,0,0,2,faculty,68,33
+102,Cho,Seung-Hui,4/16/2007,Brian Roy Bluhm,25,0,0,2,classmate,70.7,45.7
+102,Cho,Seung-Hui,4/16/2007,Ryan Christopher Clark,22,0,1,2,classmate,64.5,42.5
+102,Cho,Seung-Hui,4/16/2007,Austin Michelle Cloyd,18,1,0,2,classmate,79.4,61.4
+102,Cho,Seung-Hui,4/16/2007,Jocelyne Couture-Nowak,49,1,0,2,faculty,74.1,25.1
+102,Cho,Seung-Hui,4/16/2007,Kevin P. Granata,45,0,0,2,faculty,67.4,22.4
+102,Cho,Seung-Hui,4/16/2007,Matthew Gregory Gwaltney,24,0,0,2,classmate,70.7,46.7
+102,Cho,Seung-Hui,4/16/2007,Caitlin Millar Hammaren,19,1,0,2,classmate,79.4,60.4
+102,Cho,Seung-Hui,4/16/2007,Jeremy Michael Herbstritt,27,0,0,2,classmate,70.7,43.7
+102,Cho,Seung-Hui,4/16/2007,Rachael Elizabeth Hill,18,1,0,2,classmate,79.4,61.4
+102,Cho,Seung-Hui,4/16/2007,Emily Jane Hilscher,19,1,0,1,Cho was infatuated with her,79.4,60.4
+102,Cho,Seung-Hui,4/16/2007,Jarrett Lee Lane,22,0,0,2,classmate,72.7,50.7
+102,Cho,Seung-Hui,4/16/2007,Matthew Joseph La Porte,20,0,0,2,classmate,72.7,52.7
+102,Cho,Seung-Hui,4/16/2007,Henry J. Lee ,20,0,3,2,classmate,71.8,51.8
+102,Cho,Seung-Hui,4/16/2007,Liviu Librescu,76,0,0,2,faculty,85.6,9.6
+102,Cho,Seung-Hui,4/16/2007,G. V. Loganathan,51,0,3,2,faculty,66.6,15.6
+102,Cho,Seung-Hui,4/16/2007,Partahi Mamora Halomoan Lumbantoruan,34,0,3,2,classmate,68.8,34.8
+102,Cho,Seung-Hui,4/16/2007,Lauren Ashley McCain,20,1,5,2,classmate,78.8,58.8
+102,Cho,Seung-Hui,4/16/2007,Daniel Patrick O'Neil,22,0,0,2,classmate,72.7,50.7
+102,Cho,Seung-Hui,4/16/2007,Juan Ramon Ortiz-Ortiz,26,0,2,2,classmate,70,44
+102,Cho,Seung-Hui,4/16/2007,Minal Hiralal Panchal,26,1,3,2,classmate,77.4,51.4
+102,Cho,Seung-Hui,4/16/2007,Daniel Alejandro Perez Cueva,21,0,2,2,classmate,71.8,50.8
+102,Cho,Seung-Hui,4/16/2007,Erin Nicole Peterson,18,1,1,2,classmate,73.6,55.6
+102,Cho,Seung-Hui,4/16/2007,Michael Steven Pohle Jr.,23,0,0,2,classmate,70.7,47.7
+102,Cho,Seung-Hui,4/16/2007,Julia Kathleen Pryde,23,1,0,2,classmate,78.1,55.1
+102,Cho,Seung-Hui,4/16/2007,Mary Karen Read,19,1,3,2,classmate,78.8,59.8
+102,Cho,Seung-Hui,4/16/2007,Reema Joseph Samaha,18,1,4,2,classmate,78.8,60.8
+102,Cho,Seung-Hui,4/16/2007,Waleed Mohamed Shaalan,32,0,1,2,classmate,62.4,30.4
+102,Cho,Seung-Hui,4/16/2007,Leslie Geraldine Sherman,20,1,0,2,classmate,79.4,59.4
+102,Cho,Seung-Hui,4/16/2007,Maxine Shelly Turner,22,1,0,2,classmate,79.4,57.4
+102,Cho,Seung-Hui,4/16/2007,Nicole Regina White,20,1,0,2,classmate,79.4,59.4
+103,Hawkins,Robert,12/5/2007,Beverly Flynn,47,1,0,0,NA,74.1,27.1
+103,Hawkins,Robert,12/5/2007,Gary Joy,56,0,0,0,NA,66.5,10.5
+103,Hawkins,Robert,12/5/2007,Janet Jorgensen,66,1,0,0,NA,82.3,16.3
+103,Hawkins,Robert,12/5/2007,John McDonald,65,0,0,0,NA,82.4,17.4
+103,Hawkins,Robert,12/5/2007,Gary Scharf,48,0,0,0,NA,67.4,19.4
+103,Hawkins,Robert,12/5/2007,"Angella ""Angie"" Schuster",36,1,0,0,NA,75.6,39.6
+103,Hawkins,Robert,12/5/2007,Dianne Clavin Trent,53,1,0,0,NA,72.2,19.2
+103,Hawkins,Robert,12/5/2007,Maggie Webb,24,1,0,0,NA,78.1,54.1
+104,Murray,Matthew,12/9/2007,Philip Crouse,22,0,0,0,NA,72.7,50.7
+104,Murray,Matthew,12/9/2007,Tiffany Johnson,25,1,0,0,NA,78.1,53.1
+104,Murray,Matthew,12/9/2007,Rachel Elizabeth Works,16,1,0,0,NA,79.4,63.4
+104,Murray,Matthew,12/9/2007,Stephanie Pauline Works,18,1,0,0,NA,79.4,61.4
+105,Thornton,Charles,2/7/2008,"Thomas Frederick ""Tom"" Ballman",37,0,0,1,acquainted through Thornton's disputes with city government,68,31
+105,Thornton,Charles,2/7/2008,"William King ""Bill"" Biggs",50,0,0,1,acquainted through Thornton's disputes with city government,67.4,17.4
+105,Thornton,Charles,2/7/2008,Connie Conroy Karr,51,1,0,1,acquainted through Thornton's disputes with city government,74.1,23.1
+105,Thornton,Charles,2/7/2008,Michael H.T. Lynch,63,0,0,1,acquainted through Thornton's disputes with city government,66.5,3.5
+105,Thornton,Charles,2/7/2008,Mike Emil Swoboda,69,0,0,1,acquainted through Thornton's disputes with city government,82,13
+105,Thornton,Charles,2/7/2008,Kenneth Dale Yost,61,0,0,1,acquainted through Thornton's disputes with city government,66.5,5.5
+106,Kazmierczak,Steven,2/14/2008,Gayle Dubowski,20,1,0,0,NA,79.4,59.4
+106,Kazmierczak,Steven,2/14/2008,Catalina Garcia,20,1,2,0,NA,78.8,58.8
+106,Kazmierczak,Steven,2/14/2008,Julianna Gehant,32,1,0,0,NA,77.3,45.3
+106,Kazmierczak,Steven,2/14/2008,Ryanne Mace,19,1,0,0,NA,79.4,60.4
+106,Kazmierczak,Steven,2/14/2008,Daniel Parmenter,20,0,0,0,NA,72.7,52.7
+107,Leeds,Lee,3/18/2008,"Golden ""Dave"" Duboise",45,0,,0,NA,66.6,21.6
+107,Leeds,Lee,3/18/2008,Ricardo Cardenas Leal,33,0,2,0,NA,68.8,35.8
+107,Leeds,Lee,3/18/2008,Robert Louis Leeds,66,0,0,1,father,82.4,16.4
+107,Leeds,Lee,3/18/2008,Terry Edward Majan,38,0,0,1,coworker,68,30
+108,Higdon,Wesley,6/25/2008,Joshua Hinojosa,28,0,2,1,coworker,70,42
+108,Higdon,Wesley,6/25/2008,Trisha Mirelez,25,1,2,1,coworker,77.4,52.4
+108,Higdon,Wesley,6/25/2008,Israel Monroy,29,0,,1,coworker,70,41
+108,Higdon,Wesley,6/25/2008,Kevin G. Taylor,30,0,,1,supervisor,70,40
+108,Higdon,Wesley,6/25/2008,Rachael Vasquez,26,1,2,1,coworker,77.4,51.4
+109,Zamora,Isaac,9/2/2008,Julie Ann Binschus,47,1,0,1,neighbor,74.1,27.1
+109,Zamora,Isaac,9/2/2008,Greg N. Gillum,38,0,0,0,NA,68,30
+109,Zamora,Isaac,9/2/2008,Anne Jackson,40,1,0,1,Jackson frequently had contact with Zamora in her job as a police officer,75.6,35.6
+109,Zamora,Isaac,9/2/2008,LeRoy Lange,64,0,0,0,NA,66.5,2.5
+109,Zamora,Isaac,9/2/2008,David Radcliffe,57,0,0,0,NA,66.5,9.5
+109,Zamora,Isaac,9/2/2008,Chester Rose,58,0,0,1,neighbor,66.5,8.5
+110,Stewart,Robert,3/29/2009,Jerry Avant Jr.,39,0,3,0,NA,67.1,28.1
+110,Stewart,Robert,3/29/2009,Louise DeKler,98,1,0,0,NA,87,0
+110,Stewart,Robert,3/29/2009,Lillian Dunn,89,1,0,0,NA,87,0
+110,Stewart,Robert,3/29/2009,Tessie Garner,88,1,,0,NA,86.9,0
+110,Stewart,Robert,3/29/2009,John Walter Goldston,78,0,0,0,NA,85.6,7.6
+110,Stewart,Robert,3/29/2009,Bessie Hendrick,78,1,0,0,NA,87.5,9.5
+110,Stewart,Robert,3/29/2009,Margaret Johnson,89,1,,0,NA,86.9,0
+110,Stewart,Robert,3/29/2009,Jesse Musser,88,0,0,0,NA,84.7,0
+111,Wong,Jiverly,4/3/2009,Parveen Ali,26,1,4,1,former classmate,77.4,51.4
+111,Wong,Jiverly,4/3/2009,Almir O. Alves,43,0,2,1,former classmate,67.1,24.1
+111,Wong,Jiverly,4/3/2009,Maria Sonia Bernard,46,1,1,1,"former classmate
+",66.3,20.3
+111,Wong,Jiverly,4/3/2009,Marc Henry Bernard,44,0,1,1,former classmate,60,16
+111,Wong,Jiverly,4/3/2009,Li Guo,47,1,3,1,former classmate,73.1,26.1
+111,Wong,Jiverly,4/3/2009,Lan Ho,39,1,3,1, former classmate,74.7,35.7
+111,Wong,Jiverly,4/3/2009,Layla Khalil,57,1,4,0,NA,71.1,14.1
+111,Wong,Jiverly,4/3/2009,Roberta King,72,1,0,2,worked for the center where Wong took classes,84.3,12.3
+111,Wong,Jiverly,4/3/2009,Jiang Ling,22,1,3,1,former classmate,78.8,56.8
+111,Wong,Jiverly,4/3/2009,Hong Xiu Mao,35,1,3,1,former classmate,76.6,41.6
+111,Wong,Jiverly,4/3/2009,Dolores Yigal,53,1,3,1,former classmate,73.1,20.1
+111,Wong,Jiverly,4/3/2009,Hai Hong Zhong,54,1,3,1,former classmate,73.1,19.1
+111,Wong,Jiverly,4/3/2009,Maria K. Zobniw,60,1,0,2,worked for the center where Wong took classes,72.2,12.2
+112,Gonzalez,Marcos,11/1/2009,Javier Manuel Martinez,21,0,2,1,acquaintances,71.8,50.8
+112,Gonzalez,Marcos,11/1/2009,Juan Manuel Martinez,26,0,2,1,acquaintances,70,44
+112,Gonzalez,Marcos,11/1/2009,Victor Alfonso Martinez-Jimenez,22,0,2,1,acquaintances,71.8,49.8
+112,Gonzalez,Marcos,11/1/2009,Marcos Alvedo Aguilar,21,0,2,1,acquaintances,71.8,50.8
+113,Hasan,Nidal,11/5/2009,Michael Grant Cahill,62,0,0,2,worked at Fort Hood,66.5,4.5
+113,Hasan,Nidal,11/5/2009,Libardo Eduardo Caraveo,52,0,2,0,"NA, arrived the day before the shooting",66.6,14.6
+113,Hasan,Nidal,11/5/2009,Justin Michael DeCrow,32,0,0,2,stationed at Fort Hood,69.5,37.5
+113,Hasan,Nidal,11/5/2009,John P. Gaffaney,56,0,0,0,"NA, arrived the day before the shooting",66.5,10.5
+113,Hasan,Nidal,11/5/2009,Frederick Greene,29,0,0,2,stationed at Fort Hood,70.7,41.7
+113,Hasan,Nidal,11/5/2009,Jason Dean Hunt,22,0,0,2,stationed at Fort Hood,72.7,50.7
+113,Hasan,Nidal,11/5/2009,Amy Sue Krueger,29,1,0,0,"NA, arrived two days before the shooting",78.1,49.1
+113,Hasan,Nidal,11/5/2009,Aaron Thomas Nemelka,19,0,0,2,stationed at Fort Hood,72.7,53.7
+113,Hasan,Nidal,11/5/2009,Michael S. Pearson,22,0,0,2,stationed at Fort Hood,72.7,50.7
+113,Hasan,Nidal,11/5/2009,Russell Gilbert Seager,51,0,0,2,worked at Fort Hood ,67.4,16.4
+113,Hasan,Nidal,11/5/2009,Francheska Velez,21,1,2,2,stationed at Fort Hood,78.8,57.8
+113,Hasan,Nidal,11/5/2009,Juanita L. Warman,55,1,0,2,worked at Fort Hood,72.2,17.2
+113,Hasan,Nidal,11/5/2009,Kham See Xiong,23,1,3,2,stationed at Fort Hood,78.8,55.8
+114,Clemmons,Maurice,11/29/2009,Tina Griswold,40,1,0,0,NA,75.6,35.6
+114,Clemmons,Maurice,11/29/2009,Ronald Owens,37,0,0,0,NA,68,31
+114,Clemmons,Maurice,11/29/2009,Mark Renninger,39,0,0,0,NA,68,29
+114,Clemmons,Maurice,11/29/2009,Greg Richards,42,0,0,0,NA,68,26
+115,Galstyan,Nerses,4/3/2010,Harut Baburyan,28,0,3,1,acquaintance,70,42
+115,Galstyan,Nerses,4/3/2010,Sarkis Karadijan,26,0,3,1,acquaintance,70,44
+115,Galstyan,Nerses,4/3/2010,Vardan Tofalyan,31,0,3,1,acquaintance,70,39
+115,Galstyan,Nerses,4/3/2010,Hayk Yegnanyan,25,0,3,1,acquaintance,71.8,46.8
+116,Regalado,Gerardo,6/6/2010,Zaida Castillo,56,1,2,0,NA,71.1,15.1
+116,Regalado,Gerardo,6/6/2010,Maysel Figueroa,32,1,2,0,NA,77.4,45.4
+116,Regalado,Gerardo,6/6/2010,Lavinia Fonseca,47,1,2,0,NA,73.1,26.1
+116,Regalado,Gerardo,6/6/2010,Liazan Molina,24,1,2,1,wife,78.8,54.8
+117,Thornton,Omar,8/3/2010,William Carl Ackerman,51,0,0,1,coworker,67.4,16.4
+117,Thornton,Omar,8/3/2010,Bryan Cirigliano,51,0,0,1,union representative,67.4,16.4
+117,Thornton,Omar,8/3/2010,Francis Fazio Jr.,57,0,0,1,coworker,66.5,9.5
+117,Thornton,Omar,8/3/2010,Louis J. Felder,50,0,0,1,supervisor,67.4,17.4
+117,Thornton,Omar,8/3/2010,Victor James,59,0,0,1,coworker,66.5,7.5
+117,Thornton,Omar,8/3/2010,Edwin Kennison Jr.,49,0,0,2,delivered to factory,67.4,18.4
+117,Thornton,Omar,8/3/2010,Craig Peppin,60,0,0,1,coworker,66.5,6.5
+117,Thornton,Omar,8/3/2010,Douglas A. Scruton,56,0,0,1,coworker,66.5,10.5
+118,McCray,Riccardo,8/14/2010,Shawn-Tia McNeil,27,1,1,0,NA,72.5,45.5
+118,McCray,Riccardo,8/14/2010,Willie McCaa III,26,0,1,0,NA,63.8,37.8
+118,McCray,Riccardo,8/14/2010,Danyell Mackin Jr.,30,0,1,0,NA,63.8,33.8
+118,McCray,Riccardo,8/14/2010,Tiffany Wilhite,32,1,1,0,NA,72.5,40.5
+119,Neace,Stanley,9/11/2010,Teresa Fugate,30,1,0,1,neighbor,78.1,48.1
+119,Neace,Stanley,9/11/2010,Tammy R. Kilborn,40,1,0,1,neighbor,77.3,37.3
+119,Neace,Stanley,9/11/2010,Sandra J. Neace,54,1,,1,wife,73.1,19.1
+119,Neace,Stanley,9/11/2010,Sandra Rachel Cockerham Strong,28,1,,1,stepdaughter,77.4,49.4
+119,Neace,Stanley,9/11/2010,Dennis Joe Turner,31,0,0,1,stepdaughter's boyfriend,70.7,39.7
+120,Loughner,Jared,1/8/2011,Christina-Taylor Green,9,1,0,0,NA,80.1,71.1
+120,Loughner,Jared,1/8/2011,"Dorothy ""Dot"" Morris",76,1,0,0,NA,87.8,11.8
+120,Loughner,Jared,1/8/2011,John Roll,63,0,0,0,NA,66.5,3.5
+120,Loughner,Jared,1/8/2011,Phyllis Schneck,79,1,0,0,NA,87.6,8.6
+120,Loughner,Jared,1/8/2011,Dorwan Stoddard,76,0,0,0,NA,86,10
+120,Loughner,Jared,1/8/2011,"Gabriel ""Gabe"" Zimmerman",30,0,0,0,NA,70.7,40.7
+121,Hance,Michael,8/7/2011,Craig Dieter,51,0,0,1,girlfriend brother,67.4,16.4
+121,Hance,Michael,8/7/2011,Scott Dieter,11,0,0,1,girlfriend's nephew,74.7,63.7
+121,Hance,Michael,8/7/2011,Autumn Johnson,16,1,0,1,neighbor,79.6,63.6
+121,Hance,Michael,8/7/2011,Bryan Johnson,44,0,0,1,neighbor,68,24
+121,Hance,Michael,8/7/2011,Gudrun Johnson,64,1,0,1,neighbor,72.2,8.2
+121,Hance,Michael,8/7/2011,Russell Johnson,67,0,0,1,neighbor,82.7,15.7
+121,Hance,Michael,8/7/2011,Amelia Shambaugh,16,1,0,0,NA,79.6,63.6
+122,Sencion,Eduardo,9/6/2011,Florence Donovan-Gunderson,67,1,0,0,NA,85.3,18.3
+122,Sencion,Eduardo,9/6/2011,Heath Austin Kelly,35,0,0,0,NA,69.5,34.5
+122,Sencion,Eduardo,9/6/2011,Miranda Summerwind McElhiney,31,1,0,0,NA,78.1,47.1
+122,Sencion,Eduardo,9/6/2011,Christian Riege,38,0,0,0,NA,69.5,31.5
+123,Dekraai,Scott,10/12/2011,Victoria Buzzo,54,1,0,0,NA,74.1,20.1
+123,Dekraai,Scott,10/12/2011,David Caouette,64,0,0,0,NA,66.5,2.5
+123,Dekraai,Scott,10/12/2011,Randy Lee Fannin,62,0,0,0,NA,66.5,4.5
+123,Dekraai,Scott,10/12/2011,Michele Fast,47,1,0,0,NA,74.1,27.1
+123,Dekraai,Scott,10/12/2011,Michelle Marie Fournier,48,1,0,1,ex-wife,74.1,26.1
+123,Dekraai,Scott,10/12/2011,Lucia Bernice Kondas,65,1,0,0,NA,85.4,20.4
+123,Dekraai,Scott,10/12/2011,Laura Lee Elody,46,1,0,0,NA,75.6,29.6
+123,Dekraai,Scott,10/12/2011,Christy Lynn Wilson,47,1,0,1,acquaintance,74.1,27.1
+124,Goh,One,4/2/2012,Tshering Rinzing Bhutia,38,0,3,1,former classmate,68.8,30.8
+124,Goh,One,4/2/2012,Doris Chibuko,40,1,1,1,former classmate,68.3,28.3
+124,Goh,One,4/2/2012,Sonam Chodon,33,1,3,1,former classmate,77.4,44.4
+124,Goh,One,4/2/2012,Grace Eunhea Kim,23,1,3,1,former classmate,78.8,55.8
+124,Goh,One,4/2/2012,Katleen Ping,24,1,3,1,receptionist at school Goh attended,78.8,54.8
+124,Goh,One,4/2/2012,Judith Ona Seymour,53,1,1,1,former classmate,66.3,13.3
+124,Goh,One,4/2/2012,Lydia Sim,21,1,3,1,former classmate,78.8,57.8
+125,Stawicki,Ian,5/30/2012,"Joe ""Vito"" Albanese",52,0,0,1,acquaintance,67.4,15.4
+125,Stawicki,Ian,5/30/2012,"Andrew Thomas ""Drew"" Keriakedes",45,0,0,1,acquaintance,68,23
+125,Stawicki,Ian,5/30/2012,Donald Largen,57,0,0,0,NA,67.4,10.4
+125,Stawicki,Ian,5/30/2012,Kimberly Layfield,38,1,0,0,NA,77.3,39.3
+125,Stawicki,Ian,5/30/2012,Gloria Leonidas,52,1,0,0,NA,74.1,22.1
+126,Holmes,James,7/20/2012,Jonathan Blunk,26,0,0,0,NA,72.7,46.7
+126,Holmes,James,7/20/2012,"Alexander Jonathan ""A.J."" Boik",18,0,0,0,NA,72.7,54.7
+126,Holmes,James,7/20/2012,Jesse Childress,29,0,0,0,NA,70.7,41.7
+126,Holmes,James,7/20/2012,Gordon Cowden,51,0,0,0,NA,67.4,16.4
+126,Holmes,James,7/20/2012,Jessica Ghawi,24,1,0,0,NA,79.4,55.4
+126,Holmes,James,7/20/2012,John Thomas Larimer,27,0,0,0,NA,72.7,45.7
+126,Holmes,James,7/20/2012,Matt McQuinn,27,0,0,0,NA,72.7,45.7
+126,Holmes,James,7/20/2012,Micayla Medek,23,1,0,0,NA,79.4,56.4
+126,Holmes,James,7/20/2012,Veronica Moser-Sullivan,6,1,0,0,NA,80.7,74.7
+126,Holmes,James,7/20/2012,Alex Matthew Sullivan,27,0,0,0,NA,72.7,45.7
+126,Holmes,James,7/20/2012,Alexander C. Teves,24,0,0,0,NA,72.7,48.7
+126,Holmes,James,7/20/2012,Rebecca Ann Wingo,32,1,0,0,NA,78.1,46.1
+127,Page,Wade,8/5/2012,Satwant Singh Kaleka,65,0,3,0,NA,82.9,17.9
+127,Page,Wade,8/5/2012,Paramjit Kaur,41,1,3,0,NA,74.7,33.7
+127,Page,Wade,8/5/2012,Prakash Singh,39,0,3,0,NA,68.8,29.8
+127,Page,Wade,8/5/2012,Ranjit Singh,49,0,3,0,NA,66.6,17.6
+127,Page,Wade,8/5/2012,Sita Singh,41,0,3,0,NA,67.1,26.1
+127,Page,Wade,8/5/2012,Suveg Singh,84,0,3,0,NA,85.1,1.1
+128,Engeldinger,Andrew,9/27/2012,Keith Basinski,50,0,0,0,NA,67.4,17.4
+128,Engeldinger,Andrew,9/27/2012,Jacob Beneke,34,0,0,1,coworker,70.7,36.7
+128,Engeldinger,Andrew,9/27/2012,Rami Cooks,62,0,0,1,supervisor,66.5,4.5
+128,Engeldinger,Andrew,9/27/2012,Ronald Edberg,58,0,0,1,coworker,66.5,8.5
+128,Engeldinger,Andrew,9/27/2012,Reuven Rahamim,61,0,4,1,company owner,65.6,4.6
+128,Engeldinger,Andrew,9/27/2012,Eric Rivers,42,0,0,1,coworker,68,26
+129,Lanza,Adam,12/14/2012,Rachel Davino,29,1,0,0,NA,78.1,49.1
+129,Lanza,Adam,12/14/2012,Dawn Hochsprung,47,1,0,0,NA,75.6,28.6
+129,Lanza,Adam,12/14/2012,Nancy Lanza,52,1,0,1,mother,74.1,22.1
+129,Lanza,Adam,12/14/2012,Anne Marie Murphy,52,1,0,0,NA,74.1,22.1
+129,Lanza,Adam,12/14/2012,Lauren Rousseau,30,1,0,0,NA,78.1,48.1
+129,Lanza,Adam,12/14/2012,Mary Sherlach,56,1,0,0,NA,74.1,18.1
+129,Lanza,Adam,12/14/2012,Victoria Soto,27,1,0,0,NA,79.4,52.4
+129,Lanza,Adam,12/14/2012,Charlotte Bacon,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Daniel Barden,7,0,0,0,NA,75.5,68.5
+129,Lanza,Adam,12/14/2012,Olivia Engel,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Josephine Gay,7,1,0,0,NA,80.5,73.5
+129,Lanza,Adam,12/14/2012,Dylan Hockley,6,0,0,0,NA,75.8,69.8
+129,Lanza,Adam,12/14/2012,Madeleine Hsu,6,1,3,0,NA,80.3,74.3
+129,Lanza,Adam,12/14/2012,Catherine Hubbard,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Chase Kowalski,7,0,0,0,NA,75.5,68.5
+129,Lanza,Adam,12/14/2012,Jesse Lewis,6,0,0,0,NA,75.8,69.8
+129,Lanza,Adam,12/14/2012,Ana Marquez-Green,6,1,1,0,NA,76.7,70.7
+129,Lanza,Adam,12/14/2012,James Mattioli,6,0,0,0,NA,75.8,69.8
+129,Lanza,Adam,12/14/2012,Grace McDonnell,7,1,0,0,NA,80.5,73.5
+129,Lanza,Adam,12/14/2012,Emilie Parker,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Jack Pinto,6,0,0,0,NA,75.8,69.8
+129,Lanza,Adam,12/14/2012,Noah Pozner,6,0,0,0,NA,75.8,69.8
+129,Lanza,Adam,12/14/2012,Caroline Previdi,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Jessica Rekos,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Avielle Richman,6,1,0,0,NA,80.7,74.7
+129,Lanza,Adam,12/14/2012,Benjamin Wheeler,6,0,0,0,NA,75.8,69.8
+129,Lanza,Adam,12/14/2012,Allison Wyatt,6,1,0,0,NA,80.7,74.7
+130,Myers,Kurt,3/13/2013,Harry M. Montgomery,68,0,0,0,NA,82.8,14.8
+130,Myers,Kurt,3/13/2013,Michael Ransear,57,0,0,0,NA,67.4,10.4
+130,Myers,Kurt,3/13/2013,Michael S. Renshaw,51,0,0,0,NA,67.4,16.4
+130,Myers,Kurt,3/13/2013,Thomas Stefka,62,0,0,0,NA,66.5,4.5
+131,Clark III,Dennis,4/21/2013,Justine Baez,24,1,0,1,girlfriend,79.4,55.4
+131,Clark III,Dennis,4/21/2013,Bradley Fischer,47,0,,0,NA,67.1,20.1
+131,Clark III,Dennis,4/21/2013,Roland Scobee,62,0,,0,NA,65.6,3.6
+131,Clark III,Dennis,4/21/2013,Ceasar Valdovinos,23,0,2,0,NA,71.8,48.8
+132,Zawahri,John,6/7/2013,Carlos Navarro Franco,68,0,2,0,NA,84.2,16.2
+132,Zawahri,John,6/7/2013,Marcela Franco,26,1,2,0,NA,78.8,52.8
+132,Zawahri,John,6/7/2013,Margarita Gomez,68,1,2,0,NA,87.6,19.6
+132,Zawahri,John,6/7/2013,Chris Zawahri,25,0,4,1,brother,71.8,46.8
+132,Zawahri,John,6/7/2013,Samir Zawahri,55,0,4,1,father,66.6,11.6
+133,Vargas,Pedro,7/26/2013,Carlos Javier Gavilanes,33,0,2,0,NA,70,37
+133,Vargas,Pedro,7/26/2013,Merly S. Niebles,51,1,2,1,neighbor,73.1,22.1
+133,Vargas,Pedro,7/26/2013,Pricilla Perez,17,1,2,1,neighbor,78.9,61.9
+133,Vargas,Pedro,7/26/2013,Camira Pisciotti,69,1,2,1,property manager,86.9,17.9
+133,Vargas,Pedro,7/26/2013,Italo Pisciotti,79,0,2,1,property manager,87,8
+133,Vargas,Pedro,7/26/2013,Patricio Simono,64,0,2,1,neighbor,71.1,7.1
+134,Alexis,Aaron,9/16/2013,Michael Arnold,59,0,0,0,NA,66.5,7.5
+134,Alexis,Aaron,9/16/2013,Martin Bodrog,54,0,0,0,NA,67.4,13.4
+134,Alexis,Aaron,9/16/2013,Arthur Daniels,51,0,1,0,NA,61.1,10.1
+134,Alexis,Aaron,9/16/2013,Sylvia Frasier,53,1,1,0,NA,66.3,13.3
+134,Alexis,Aaron,9/16/2013,Kathy Gaarde,62,1,0,0,NA,72.2,10.2
+134,Alexis,Aaron,9/16/2013,John Roger Johnson,73,0,0,0,NA,82,9
+134,Alexis,Aaron,9/16/2013,Mary Francis Knight,51,1,0,0,NA,74.1,23.1
+134,Alexis,Aaron,9/16/2013,Frank Kohler,50,0,0,0,NA,67.4,17.4
+134,Alexis,Aaron,9/16/2013,Vishnu Shalchendia Pandit,61,0,3,0,NA,65.6,4.6
+134,Alexis,Aaron,9/16/2013,Kenneth Bernard Proctor,46,0,0,0,NA,68,22
+134,Alexis,Aaron,9/16/2013,Gerald L. Read,58,0,0,0,NA,67.4,9.4
+134,Alexis,Aaron,9/16/2013,Richard Michael Ridgell,52,0,0,0,NA,67.4,15.4
+135,Rhoades,Cherie Lash,2/20/2014,Glenn Calonicco,30,0,5,1,nephew,70,40
+135,Rhoades,Cherie Lash,2/20/2014,Rurik Davis,50,0,5,1,brother,66.6,16.6
+135,Rhoades,Cherie Lash,2/20/2014,Angel Penn,19,1,5,1,niece,78.9,59.9
+135,Rhoades,Cherie Lash,2/20/2014,Shelia Lynn Russo,47,1,5,1,tribal member,74.7,27.7
+136,Rodger,Elliot,5/23/2014,George Chen,19,0,3,2,roommate's friend,72.5,53.5
+136,Rodger,Elliot,5/23/2014,Katherine Breann Cooper,22,1,0,0,NA,79.4,57.4
+136,Rodger,Elliot,5/23/2014,"Cheng Yuan ""James"" Hong",20,0,3,1,roommate,72.5,52.5
+136,Rodger,Elliot,5/23/2014,Christopher Ross Michaels-Martinez,20,0,0,0,NA,73.4,53.4
+136,Rodger,Elliot,5/23/2014,"Weihan ""David"" Wang",20,0,3,1,roommate,72.5,52.5
+136,Rodger,Elliot,5/23/2014,Veronika Weiss,19,1,0,0,NA,79.6,60.6
+137,Fryberg,Jaylen,10/24/2014,Shaylee Chuckulnaskit,14,1,5,1,friend,79.3,65.3
+137,Fryberg,Jaylen,10/24/2014,Andrew Fryberg,15,0,5,1,cousin,74.1,59.1
+137,Fryberg,Jaylen,10/24/2014,Zoe Galasso,14,1,,1,friend,79.3,65.3
+137,Fryberg,Jaylen,10/24/2014,Gia Soriano,14,1,,1,friend,79.3,65.3
+138,Roof,Dylann,6/17/2015,Sharonda Coleman-Singleton,45,1,1,0,NA,68.3,23.3
+138,Roof,Dylann,6/17/2015,Depayne Middleton-Doctor,49,1,1,0,NA,68.3,19.3
+138,Roof,Dylann,6/17/2015,Cynthia Hurd,54,1,1,0,NA,66.3,12.3
+138,Roof,Dylann,6/17/2015,Susie Jackson,87,1,1,0,NA,86.6,0
+138,Roof,Dylann,6/17/2015,Ethel Lance,70,1,1,0,NA,84.3,14.3
+138,Roof,Dylann,6/17/2015,Clementa Carlos Pinckney,41,0,1,0,NA,62.4,21.4
+138,Roof,Dylann,6/17/2015,Tywanza Sanders,26,0,1,0,NA,64.5,38.5
+138,Roof,Dylann,6/17/2015,Daniel Lee Simmons Sr.,74,0,1,0,NA,80.2,6.2
+138,Roof,Dylann,6/17/2015,Myra Thompson,59,1,1,0,NA,66.3,7.3
+139,Abdulazeez,Mohammad,7/16/2015,Carson A. Holmquist,25,0,0,0,NA,72.7,47.7
+139,Abdulazeez,Mohammad,7/16/2015,Randall Smith,26,0,0,0,NA,72.7,46.7
+139,Abdulazeez,Mohammad,7/16/2015,Thomas J. Sullivan,40,0,0,0,NA,69.5,29.5
+139,Abdulazeez,Mohammad,7/16/2015,Squire K. Wells,21,0,0,0,NA,73.4,52.4
+139,Abdulazeez,Mohammad,7/16/2015,David A. Wyatt,35,0,0,0,NA,70.7,35.7
+140,Harper-Mercer,Chris,10/1/2015,Lucero Alcaraz,19,1,2,1,classmate,78.9,59.9
+140,Harper-Mercer,Chris,10/1/2015,Treven Taylor Anspach,20,0,0,1,classmate,73.4,53.4
+140,Harper-Mercer,Chris,10/1/2015,Rebecka Ann Carnes,18,1,0,1,classmate,79.6,61.6
+140,Harper-Mercer,Chris,10/1/2015,Quinn Glen Cooper,18,0,0,1,classmate,73.4,55.4
+140,Harper-Mercer,Chris,10/1/2015,Kim Saltmarsh Dietz,59,1,0,1,classmate,74.1,15.1
+140,Harper-Mercer,Chris,10/1/2015,Lucas Eibel,18,0,0,1,classmate,73.4,55.4
+140,Harper-Mercer,Chris,10/1/2015,Jason Dale Johnson,33,0,0,1,classmate,70.7,37.7
+140,Harper-Mercer,Chris,10/1/2015,Lawrence Levine,67,0,0,1,teacher,83,16
+140,Harper-Mercer,Chris,10/1/2015,Sarena Dawn Moore,44,1,0,1,classmate,75.6,31.6
+141,Hudson,William,11/14/2015,Carl Johnson,77,0,0,0,NA,86.1,9.1
+141,Hudson,William,11/14/2015,Hannah Johnson,40,1,0,0,NA,77.3,37.3
+141,Hudson,William,11/14/2015,Kade Johnson,6,0,0,0,NA,76.4,70.4
+141,Hudson,William,11/14/2015,Austin Kamp,21,0,0,0,NA,73.4,52.4
+141,Hudson,William,11/14/2015,Nathan Kamp,23,0,0,0,NA,72.7,49.7
+141,Hudson,William,11/14/2015,Thomas Kamp,45,0,0,0,NA,68,23
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Robert Adams,40,0,0,1,coworkers,69.5,29.5
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Isaac Amanios,60,0,1,1,coworkers,61.1,1.1
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Bennetta Betbadal,46,1,4,1,coworkers,74.7,28.7
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Harry Bowman,46,0,0,1,coworkers,68,22
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Sierra Clayborn,27,1,1,1,coworkers,73.6,46.6
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Juan Espinoza,50,0,2,1,coworkers,67.1,17.1
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Aurora Luz Godoy,26,1,2,1,coworkers,78.8,52.8
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Shannon Johnson,45,0,0,1,coworkers,68,23
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Larry Daniel Kaufman,42,0,0,0,NA,69.5,27.5
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Damian Meins,58,0,0,1,coworkers,67.4,9.4
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Tin Nguyen,31,1,3,1,coworkers,77.4,46.4
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Nicholas Thalasinos,52,0,0,1,coworkers,67.4,15.4
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Yvette Velasco,27,1,2,1,coworkers,78.8,51.8
+"142, 143","Farook, Malik","Syed Rizwan, Tashfeen",12/2/2015,Michael Raymond Wetzel,37,0,0,1,coworkers,70.7,33.7
+144,Dalton,Jason,2/20/2016,Dorothy Judy Brown,74,1,0,0,NA,85.1,11.1
+144,Dalton,Jason,2/20/2016,Barbara Hawthorne,68,1,0,0,NA,85.5,17.5
+144,Dalton,Jason,2/20/2016,Mary Jo Nye,60,1,0,0,NA,74.1,14.1
+144,Dalton,Jason,2/20/2016,Mary Lou Nye,62,1,0,0,NA,72.2,10.2
+144,Dalton,Jason,2/20/2016,Richard Smith,53,0,0,0,NA,66.5,13.5
+144,Dalton,Jason,2/20/2016,Tyler Smith,17,0,0,0,NA,74.7,57.7
+"145, 146",,,3/9/2016,Shada Mahone,26,1,1,,,73.6,47.6
+"145, 146",,,3/9/2016,Brittany Powell,27,1,1,,,73.6,46.6
+"145, 146",,,3/9/2016,Chanetta Powell,25,1,1,,,73.6,48.6
+"145, 146",,,3/9/2016,Jerry Shelton,35,0,1,,,63.8,28.8
+"145, 146",,,3/9/2016,Tina Shelton,37,1,1,,,63.8,26.8
+147,Mateen,Omar,6/12/2016,Stanley Almodovar III,23,0,2,0,NA,72.5,49.5
+147,Mateen,Omar,6/12/2016,Amanda Alvear,25,1,2,0,NA,78.8,53.8
+147,Mateen,Omar,6/12/2016,Oscar A. Aracena-Montero,26,0,2,0,NA,71.8,45.8
+147,Mateen,Omar,6/12/2016,Rodolfo Ayala-Ayala,33,0,2,0,NA,70,37
+147,Mateen,Omar,6/12/2016,Alejandro Barrios Martinez,21,0,2,0,NA,72.5,51.5
+147,Mateen,Omar,6/12/2016,Martin Benitez Torres,33,0,2,0,NA,70,37
+147,Mateen,Omar,6/12/2016,Antonio Davon Brown,29,0,1,0,NA,64.5,35.5
+147,Mateen,Omar,6/12/2016,Darryl Roman Burt II,29,0,1,0,NA,64.5,35.5
+147,Mateen,Omar,6/12/2016,Jonathan Antonio Camuy Vega,24,0,2,0,NA,71.8,47.8
+147,Mateen,Omar,6/12/2016,Angel L. Candelario-Padro,28,0,2,0,NA,71.8,43.8
+147,Mateen,Omar,6/12/2016,Simon Adrian Carrillo Fernandez,31,0,2,0,NA,71.8,40.8
+147,Mateen,Omar,6/12/2016,Juan Chevez-Martinez,25,0,2,0,NA,71.8,46.8
+147,Mateen,Omar,6/12/2016,Luis Daniel Conde,39,0,2,0,NA,70,31
+147,Mateen,Omar,6/12/2016,Cory James Connell,21,0,0,0,NA,73.4,52.4
+147,Mateen,Omar,6/12/2016,Tevin Eugene Crosby,25,0,1,0,NA,64.5,39.5
+147,Mateen,Omar,6/12/2016,Frank Jimmy Dejesus Velazquez,50,0,2,0,NA,67.1,17.1
+147,Mateen,Omar,6/12/2016,Deonka Deidra Drayton,32,1,1,0,NA,72.5,40.5
+147,Mateen,Omar,6/12/2016,Mercedez Marisol Flores,26,1,2,0,NA,78.8,52.8
+147,Mateen,Omar,6/12/2016,Peter O. Gonzalez-Cruz,22,0,2,0,NA,72.5,50.5
+147,Mateen,Omar,6/12/2016,Juan Ramon Guerrero,22,0,2,0,NA,72.5,50.5
+147,Mateen,Omar,6/12/2016,Paul Terrell Henry,41,0,1,0,NA,71.3,30.3
+147,Mateen,Omar,6/12/2016,Frank Hernandez,27,0,2,0,NA,71.8,44.8
+147,Mateen,Omar,6/12/2016,Miguel Angel Honorato,30,0,2,0,NA,71.8,41.8
+147,Mateen,Omar,6/12/2016,Javier Jorge-Reyes,40,0,2,0,NA,68.8,28.8
+147,Mateen,Omar,6/12/2016,Jason Benjamin Josaphat,19,0,1,0,NA,65.2,46.2
+147,Mateen,Omar,6/12/2016,Eddie Jamoldroy Justice,30,0,1,0,NA,64.5,34.5
+147,Mateen,Omar,6/12/2016,Anthony Luis Laureanodisla,25,0,2,0,NA,71.8,46.8
+147,Mateen,Omar,6/12/2016,Christopher Andrew Leinonen,32,0,,0,NA,70,38
+147,Mateen,Omar,6/12/2016,Brenda Lee Marquez McCool,49,1,2,0,NA,74.7,25.7
+147,Mateen,Omar,6/12/2016,Jean Carlos Mendez Perez,35,0,2,0,NA,70,35
+147,Mateen,Omar,6/12/2016,Akyra Monet Murray,18,1,1,0,NA,75.1,57.1
+147,Mateen,Omar,6/12/2016,"Kimberly ""KJ"" Morris",37,1,1,0,NA,72.5,35.5
+147,Mateen,Omar,6/12/2016,Jean Carlos Nieves Rodriguez,27,0,2,0,NA,71.8,44.8
+147,Mateen,Omar,6/12/2016,Luis Omar Ocasio-Capo,23,0,2,0,NA,72.5,49.5
+147,Mateen,Omar,6/12/2016,Geraldo A. Ortiz-Jimenez,25,0,2,0,NA,71.8,46.8
+147,Mateen,Omar,6/12/2016,Eric Ivan Ortiz-Rivera,36,0,2,0,NA,70,34
+147,Mateen,Omar,6/12/2016,Joel Rayon Paniagua,32,0,2,0,NA,70,38
+147,Mateen,Omar,6/12/2016,Enrique L. Rios Jr.,25,0,2,0,NA,71.8,46.8
+147,Mateen,Omar,6/12/2016,Juan P. Rivera Velazquez,37,0,2,0,NA,70,33
+147,Mateen,Omar,6/12/2016,Yilmary Rodrigues Solivan,24,0,2,0,NA,71.8,47.8
+147,Mateen,Omar,6/12/2016,Christopher Joseph Sanfeliz,24,0,2,0,NA,71.8,47.8
+147,Mateen,Omar,6/12/2016,Xavier Emmanuel Serrano Rosado,35,0,2,0,NA,70,35
+147,Mateen,Omar,6/12/2016,Gilberto Ramon Silva Menendez,25,0,2,0,NA,71.8,46.8
+147,Mateen,Omar,6/12/2016,Edward Sotomayor Jr.,34,0,0,0,NA,70.7,36.7
+147,Mateen,Omar,6/12/2016,Shane Evan Tomlinson,33,0,1,0,NA,63.8,30.8
+147,Mateen,Omar,6/12/2016,Leroy Valentin Fernandez,25,0,2,0,NA,71.8,46.8
+147,Mateen,Omar,6/12/2016,Luis S. Vielma,22,0,2,0,NA,72.5,50.5
+147,Mateen,Omar,6/12/2016,Luis Daniel Wilson-Leon,37,0,2,0,NA,70,33
+147,Mateen,Omar,6/12/2016,Jerald Arthur Wright,31,0,2,0,NA,71.8,40.8
+148,Johnson,Micah,7/7/2016,Lorne Ahrens,48,0,0,0,NA,68,20
+148,Johnson,Micah,7/7/2016,Michael Krol,40,0,0,0,NA,69.5,29.5
+148,Johnson,Micah,7/7/2016,Michael J. Smith,55,0,0,0,NA,67.4,12.4
+148,Johnson,Micah,7/7/2016,Brent Thompson,43,0,0,0,NA,69.5,26.5
+148,Johnson,Micah,7/7/2016,Patrick Zamarripa,32,0,0,0,NA,70.7,38.7
+149,Cetin,Arcan,9/23/2016,Beatrice Dotson,95,1,0,0,NA,87,0
+149,Cetin,Arcan,9/23/2016,"Wilton ""Chuck"" Eagan",61,0,0,0,NA,67.4,6.4
+149,Cetin,Arcan,9/23/2016,Belinda Sue Galde,64,1,0,0,NA,72.2,8.2
+149,Cetin,Arcan,9/23/2016,Sarai Lara,16,1,2,0,NA,79.3,63.3
+149,Cetin,Arcan,9/23/2016,Shayla Kathleen Martin,52,1,0,0,NA,74.1,22.1
+150,Santiago,Esteban,1/6/2017,Mary Louise Amzibel,69,1,0,0,NA,85.5,16.5
+150,Santiago,Esteban,1/6/2017,Terry Andres,62,0,0,0,NA,67.4,5.4
+150,Santiago,Esteban,1/6/2017,Michael Oehme,56,0,0,0,NA,67.4,11.4
+150,Santiago,Esteban,1/6/2017,Shirley Timmons,70,1,0,0,NA,85.4,15.4
+150,Santiago,Esteban,1/6/2017,Olga Weltering,84,1,0,0,NA,87.6,3.6
+151,Barber,Briddell,2/6/2017,Jerrandan Allen,22,0,1,2,possible acquaintance,65.2,43.2
+151,Barber,Briddell,2/6/2017,Edward Johnson,36,0,1,2,possible acquaintance,63.8,27.8
+151,Barber,Briddell,2/6/2017,Kevin Johnson,30,0,1,2,possible acquaintance,64.5,34.5
+151,Barber,Briddell,2/6/2017,Gabriel Townsend,35,0,1,2,possible acquaintance,63.8,28.8
+152,Vang,Nengmy,3/22/2017,Karen Barclay,62,1,0,1,wife's coworker,74.1,12.1
+152,Vang,Nengmy,3/22/2017,Dianne Renaud-Look,67,1,0,1,wife's coworker,85.5,18.5
+152,Vang,Nengmy,3/22/2017,Sara Quirt Sann,43,1,0,1,wife's divorce attorney,77.3,34.3
+152,Vang,Nengmy,3/22/2017,Jason Weiland,40,0,0,0,NA,69.5,29.5
+153,Neumann,John,6/5/2017,Kevin Clark,53,0,0,1,former coworker,67.4,14.4
+153,Neumann,John,6/5/2017,Kevin Lawson,46,0,0,1,former coworker,68,22
+153,Neumann,John,6/5/2017,Brenda Montanez-Crespo,44,1,2,1,former coworker,76.6,32.6
+153,Neumann,John,6/5/2017,Jeffrey Roberts,57,0,0,1,former coworker,67.4,10.4
+153,Neumann,John,6/5/2017,Robert Snyder,69,0,0,1,former supervisor,83,14
+154,Paddock,Stephen,10/1/2017,Hannah Lassette Ahlers,35,1,0,0,NA,78.1,43.1
+154,Paddock,Stephen,10/1/2017,Heather Lorraine Alvarado,35,1,0,0,NA,78.1,43.1
+154,Paddock,Stephen,10/1/2017,Dorene Anderson,49,1,0,0,NA,75.6,26.6
+154,Paddock,Stephen,10/1/2017,Carrie Rae Barnette,34,1,0,0,NA,78.1,44.1
+154,Paddock,Stephen,10/1/2017,Jack Reginald Beaton Jr.,54,0,0,0,NA,67.4,13.4
+154,Paddock,Stephen,10/1/2017,Stephen Richard Berger,44,0,0,0,NA,69.5,25.5
+154,Paddock,Stephen,10/1/2017,Candice Ryan Bowers,40,1,0,0,NA,77.3,37.3
+154,Paddock,Stephen,10/1/2017,Denise Burditus,50,1,0,0,NA,75.6,25.6
+154,Paddock,Stephen,10/1/2017,Sandra Lee Casey,34,1,0,0,NA,78.1,44.1
+154,Paddock,Stephen,10/1/2017,Andrea Lee Anna Castilla,28,1,2,0,NA,78.8,50.8
+154,Paddock,Stephen,10/1/2017,Denise Marie Cohen,58,1,2,0,NA,73.1,15.1
+154,Paddock,Stephen,10/1/2017,Austin William Davis,29,0,0,0,NA,72.7,43.7
+154,Paddock,Stephen,10/1/2017,Thomas Allen Day Jr.,54,0,0,0,NA,67.4,13.4
+154,Paddock,Stephen,10/1/2017,Christiana Mae Duarte,22,1,2,0,NA,78.9,56.9
+154,Paddock,Stephen,10/1/2017,Stacee Ann Etcheber,50,1,0,0,NA,75.6,25.6
+154,Paddock,Stephen,10/1/2017,Brian Scott Fraser,39,0,0,0,NA,70.7,31.7
+154,Paddock,Stephen,10/1/2017,Keri Lynn Galvan,31,1,0,0,NA,79.4,48.4
+154,Paddock,Stephen,10/1/2017,Dana Leann Gardner,52,1,0,0,NA,75.6,23.6
+154,Paddock,Stephen,10/1/2017,Angela Christine Gomez,20,1,2,0,NA,78.9,58.9
+154,Paddock,Stephen,10/1/2017,Charleston Vernon Hartfield,34,0,1,0,NA,63.8,29.8
+154,Paddock,Stephen,10/1/2017,Christopher James Hazencomb,44,0,0,0,NA,69.5,25.5
+154,Paddock,Stephen,10/1/2017,Jennifer Topaz Irvine,42,1,0,0,NA,77.3,35.3
+154,Paddock,Stephen,10/1/2017,Teresa Nicol Kimura,38,1,3,0,NA,77.4,39.4
+154,Paddock,Stephen,10/1/2017,Jessica Lynn Klymchuk,34,1,0,0,NA,78.1,44.1
+154,Paddock,Stephen,10/1/2017,Carly Anne Kriebaum,33,1,0,0,NA,78.1,45.1
+154,Paddock,Stephen,10/1/2017,Rhonda M. LeRocque,42,1,0,0,NA,77.3,35.3
+154,Paddock,Stephen,10/1/2017,Victor Link,55,0,0,0,NA,67.4,12.4
+154,Paddock,Stephen,10/1/2017,Jordan Alan McIlldoon,23,0,0,0,NA,73.4,50.4
+154,Paddock,Stephen,10/1/2017,Kelsey Breanne Meadows,28,1,0,0,NA,79.4,51.4
+154,Paddock,Stephen,10/1/2017,Calla-Marie Medig,28,1,0,0,NA,79.4,51.4
+154,Paddock,Stephen,10/1/2017,Sonny Melton,29,0,0,0,NA,79.4,50.4
+154,Paddock,Stephen,10/1/2017,Patricia Mestas,67,1,0,0,NA,85.5,18.5
+154,Paddock,Stephen,10/1/2017,Austin Cooper Meyer,24,0,0,0,NA,73.4,49.4
+154,Paddock,Stephen,10/1/2017,Adrian Allan Murfitt,35,0,0,0,NA,70.7,35.7
+154,Paddock,Stephen,10/1/2017,Rachael Kathleen Parker,33,1,0,0,NA,78.1,45.1
+154,Paddock,Stephen,10/1/2017,Jennifer Marie Parks,35,1,0,0,NA,78.1,43.1
+154,Paddock,Stephen,10/1/2017,Carolyn Lee Parsons,31,1,0,0,NA,79.4,48.4
+154,Paddock,Stephen,10/1/2017,Lisa Marie Patterson,46,1,0,0,NA,75.6,29.6
+154,Paddock,Stephen,10/1/2017,John Joseph Phippen,56,0,0,0,NA,67.4,11.4
+154,Paddock,Stephen,10/1/2017,Melissa Viridiana Ramirez,26,1,2,0,NA,78.8,52.8
+154,Paddock,Stephen,10/1/2017,Jordyn Nicole Rivera,21,1,0,0,NA,79.6,58.6
+154,Paddock,Stephen,10/1/2017,Quinton Joe Robbins,20,0,0,0,NA,73.4,53.4
+154,Paddock,Stephen,10/1/2017,Cameron Lee Robinson,28,0,0,0,NA,72.7,44.7
+154,Paddock,Stephen,10/1/2017,Rocio Guillen Rocha,40,1,2,0,NA,77.4,37.4
+154,Paddock,Stephen,10/1/2017,Tara Ann Roe Smith,34,1,0,0,NA,78.1,44.1
+154,Paddock,Stephen,10/1/2017,Lisa Romero-Muniz,48,1,2,0,NA,74.7,26.7
+154,Paddock,Stephen,10/1/2017,Christopher Louis Roybal,28,0,0,0,NA,72.7,44.7
+154,Paddock,Stephen,10/1/2017,Brett Schwanbeck,61,0,0,0,NA,67.4,6.4
+154,Paddock,Stephen,10/1/2017,Bailey Dee Schweitzer,20,1,0,0,NA,79.6,59.6
+154,Paddock,Stephen,10/1/2017,Laura Anne Shipp,50,1,3,0,NA,74.7,24.7
+154,Paddock,Stephen,10/1/2017,Erick Steven Silva,21,0,2,0,NA,72.5,51.5
+154,Paddock,Stephen,10/1/2017,Susan Marie Smith,53,1,0,0,NA,74.1,21.1
+154,Paddock,Stephen,10/1/2017,Brennan Lee Stewart,30,0,0,0,NA,72.7,42.7
+154,Paddock,Stephen,10/1/2017,"Derrick Dean ""Bo"" Taylor",56,0,0,0,NA,67.4,11.4
+154,Paddock,Stephen,10/1/2017,Neysa Christine Tonks,46,1,0,0,NA,75.6,29.6
+154,Paddock,Stephen,10/1/2017,Michelle Vo,32,1,3,0,NA,78.8,46.8
+154,Paddock,Stephen,10/1/2017,Kurt Allen Von Tillow,55,0,0,0,NA,67.4,12.4
+154,Paddock,Stephen,10/1/2017,William Winfield Wolfe Jr.,42,0,0,0,NA,69.5,27.5
+155,Kelley,Devin Patrick,11/5/2017,Keith Allen Braden,62,0,0,0,NA,67.4,5.4
+155,Kelley,Devin Patrick,11/5/2017,Robert Corrigan,51,0,0,0,NA,68,17
+155,Kelley,Devin Patrick,11/5/2017,Shani Corrigan,51,1,0,0,NA,75.6,24.6
+155,Kelley,Devin Patrick,11/5/2017,Bryan Holcombe,60,0,0,0,NA,67.4,7.4
+155,Kelley,Devin Patrick,11/5/2017,Crystal Marie Holcombe,36,1,0,0,NA,78.1,42.1
+155,Kelley,Devin Patrick,11/5/2017,Emily Rose Hill,11,1,0,0,NA,80.7,69.7
+155,Kelley,Devin Patrick,11/5/2017,Gregory Lynn Hill,13,0,0,0,NA,75.5,62.5
+155,Kelley,Devin Patrick,11/5/2017,Karla Plain Holcombe,58,1,0,0,NA,74.1,16.1
+155,Kelley,Devin Patrick,11/5/2017,"Marc Daniel ""Danny"" Holcombe",36,0,0,0,NA,70.7,34.7
+155,Kelley,Devin Patrick,11/5/2017,Megan Gail Hill,9,1,0,0,NA,80.9,71.9
+155,Kelley,Devin Patrick,11/5/2017,Noah Grace Holcombe,1,1,0,0,NA,76.1,75.1
+155,Kelley,Devin Patrick,11/5/2017,Dennis Johnson,77,0,0,0,NA,86.2,9.2
+155,Kelley,Devin Patrick,11/5/2017,Sara Johnson,68,1,0,0,NA,85.6,17.6
+155,Kelley,Devin Patrick,11/5/2017,Annabelle Renae Pomeroy,14,1,2,0,NA,79.7,65.7
+155,Kelley,Devin Patrick,11/5/2017,Haley Krueger,16,1,0,0,NA,80,64
+155,Kelley,Devin Patrick,11/5/2017,Karen Sue Marshall,56,1,0,0,NA,74.1,18.1
+155,Kelley,Devin Patrick,11/5/2017,Robert Scott Marshall,56,0,0,0,NA,67.4,11.4
+155,Kelley,Devin Patrick,11/5/2017,Tara E. McNulty,33,1,0,0,NA,78.1,45.1
+155,Kelley,Devin Patrick,11/5/2017,Ricardo Cardona Rodriguez,64,0,2,0,NA,65.6,1.6
+155,Kelley,Devin Patrick,11/5/2017,Therese Sagan Rodriguez,66,1,0,0,NA,85.6,19.6
+155,Kelley,Devin Patrick,11/5/2017,Joann Lookingbill Ward,30,1,5,0,NA,78.8,48.8
+155,Kelley,Devin Patrick,11/5/2017,Brooke Ward,5,1,0,0,NA,81.4,76.4
+155,Kelley,Devin Patrick,11/5/2017,Emily Garcia,7,1,2,0,NA,81.2,74.2
+155,Kelley,Devin Patrick,11/5/2017,Peggy Lynn Warden,56,1,0,0,NA,74.1,18.1
+155,Kelley,Devin Patrick,11/5/2017,Lula Woicinski White,71,1,0,1,grandmother-in-law,85.4,14.4
+156,Neal,Kevin Janson,11/13/2017,Barbara Anne Glisan,38,1,0,1,wife,78.1,40.1
+156,Neal,Kevin Janson,11/14/2017,Danny Lee Elliot,38,0,0,1,neighbor,70.7,32.7
+156,Neal,Kevin Janson,11/14/2017,Michelle Iris McFadyen,55,1,0,0,NA,74.1,19.1
+156,Neal,Kevin Janson,11/14/2017,Joseph Edward McHugh III,56,0,0,0,NA,67.4,11.4
+156,Neal,Kevin Janson,11/14/2017,Diana Lee Steele,68,1,0,1,neighbor,85.6,17.6
+157,O'Brien Smith,Timothy,1/28/2018,Chelsie Lou Cline,25,1,0,1,ex-girlfriend,79.6,54.6
+157,O'Brien Smith,Timothy,1/28/2018,Seth Cline,21,0,0,1,acquaintance,73.4,52.4
+157,O'Brien Smith,Timothy,1/28/2018,Courtney Sue Snyder,23,1,0,1,acquaintance,79.6,56.6
+157,O'Brien Smith,Timothy,1/28/2018,William Scott Porterfield,27,0,0,1,acquaintance,72.7,45.7
+158,Cruz,Nikolas,2/14/2018,Alyssa Alhadeff,14,1,0,0,NA,80.5,66.5
+158,Cruz,Nikolas,2/14/2018,Martin Duque Anguiano,14,0,2,0,NA,75,61
+158,Cruz,Nikolas,2/14/2018,Scott Beigel,35,0,0,2,teacher at school Cruz used to attend,70.7,35.7
+158,Cruz,Nikolas,2/14/2018,Nicholas Dworet,17,0,0,2,former classmate,74.9,57.9
+158,Cruz,Nikolas,2/14/2018,Aaron Feis,37,0,0,2,assistant football coach at school Cruz used to attend,70.7,33.7
+158,Cruz,Nikolas,2/14/2018,Jaime Guttenberg,14,1,0,0,NA,80.5,66.5
+158,Cruz,Nikolas,2/14/2018,Christopher Hixon,49,0,0,2,athletic director at school Cruz used to attend,68,19
+158,Cruz,Nikolas,2/14/2018,Luke Hoyer,15,0,0,0,NA,75.1,60.1
+158,Cruz,Nikolas,2/14/2018,Cara Loughran,14,1,0,0,NA,80.5,66.5
+158,Cruz,Nikolas,2/14/2018,Gina Montalto,14,1,,0,NA,80.1,66.1
+158,Cruz,Nikolas,2/14/2018,Joaquin Oliver,17,0,2,2,former classmate,74.3,57.3
+158,Cruz,Nikolas,2/14/2018,Alaina Petty,14,1,0,0,NA,80.5,66.5
+158,Cruz,Nikolas,2/14/2018,Meadow Pollack,18,1,0,2,former classmate,79.9,61.9
+158,Cruz,Nikolas,2/14/2018,Helena Ramsay,17,1,1,2,former classmate,75.3,58.3
+158,Cruz,Nikolas,2/14/2018,Alex Schachter,14,0,0,2,former classmate,75.5,61.5
+158,Cruz,Nikolas,2/14/2018,Carmen Schentrup,16,1,,2,former classmate,79.6,63.6
+158,Cruz,Nikolas,2/14/2018,Peter Wang,15,0,3,0,NA,74.5,59.5
+159,Davis,George,2/26/2018,Cierra Bargaineer,24,1,1,1,girlfriend,73.9,49.9
+159,Davis,George,2/26/2018,Raphael Hall,60,0,1,1,girlfriend's father,61.1,1.1
+159,Davis,George,2/26/2018,Jamon D. Thomas,22,0,1,1,cousin,65.2,43.2
+159,Davis,George,2/26/2018,Kristin Marie Thomas,21,1,1,2,Cierra's friend,73.9,52.9
+160,Reinking,Travis,4/22/2018,Akilah DaSilva,23,0,1,0,NA,65.2,42.2
+160,Reinking,Travis,4/22/2018,DeEbony Groves,21,1,1,0,NA,73.9,52.9
+160,Reinking,Travis,4/22/2018,Joe R. Perez,20,0,2,0,NA,74.1,54.1
+160,Reinking,Travis,4/22/2018,Taurean C. Sanderlin,29,0,1,0,NA,64.5,35.5
+161,Pagourtzis,Dimitrios,5/18/2018,Jared Black,17,0,0,1,classmate,74.9,57.9
+161,Pagourtzis,Dimitrios,5/18/2018,Shana Lorraine Fisher,16,1,0,1,classmate,80.1,64.1
+161,Pagourtzis,Dimitrios,5/18/2018,Christian Riley Garcia,15,0,,1,classmate,74.5,59.5
+161,Pagourtzis,Dimitrios,5/18/2018,Aaron Kyle McLeod,15,0,0,1,classmate,75.1,60.1
+161,Pagourtzis,Dimitrios,5/18/2018,Glenda Ann Perkins,64,1,0,1,teacher,72.2,8.2
+161,Pagourtzis,Dimitrios,5/18/2018,Angelique Ramirez,15,1,2,1,classmate,79.7,64.7
+161,Pagourtzis,Dimitrios,5/18/2018,Sabika Sheikh,17,1,4,1,classmate,79.5,62.5
+161,Pagourtzis,Dimitrios,5/18/2018,Christopher Jake Stone,17,0,2,1,classmate,74.3,57.3
+161,Pagourtzis,Dimitrios,5/18/2018,Cynthia Tisdale,63,1,0,1,teacher,74.1,11.1
+161,Pagourtzis,Dimitrios,5/18/2018,Kimberly Vaughan,14,1,0,1,classmate,80.5,66.5
+162,Ramos,Jarrod,6/28/2018,Gerald Fischman,61,0,0,0,NA,67.4,6.4
+162,Ramos,Jarrod,6/28/2018,Rob Hiaasen,59,0,0,0,NA,67.4,8.4
+162,Ramos,Jarrod,6/28/2018,John McNamara,56,0,0,0,NA,67.4,11.4
+162,Ramos,Jarrod,6/28/2018,Rebecca Smith,34,1,0,0,NA,78.1,44.1
+162,Ramos,Jarrod,6/28/2018,Wendi Winters,65,1,0,0,NA,72.2,7.2
+163,Casarez,Javier,9/12/2018,Petra Maribel Bolanos de Casarez,45,1,2,1,ex-wife,76.6,31.6
+163,Casarez,Javier,9/12/2018,Eliseo Garcia Cazares,57,0,2,1,employee,66.6,9.6
+163,Casarez,Javier,9/12/2018,Manuel Contreras,50,0,2,1,employee,67.1,17.1
+163,Casarez,Javier,9/12/2018,Laura Garcia,31,1,2,0,employee's daughter,78.8,47.8
+163,Casarez,Javier,9/12/2018,Antonio Valadez,50,0,2,1,employee,67.1,17.1
+164,Bowers,Robert,10/27/2018,Joyce Fienberg,75,1,0,0,NA,85,10
+164,Bowers,Robert,10/27/2018,Richard Gottfired,65,0,0,0,NA,66.5,1.5
+164,Bowers,Robert,10/27/2018,Rose Mallinger,97,1,0,0,NA,87,0
+164,Bowers,Robert,10/27/2018,Jerry Rabinowitz,66,0,0,0,NA,66.5,0.5
+164,Bowers,Robert,10/27/2018,Cecil Rosenthal,59,0,0,0,NA,67.4,8.4
+164,Bowers,Robert,10/27/2018,David Rosenthal,54,0,0,0,NA,67.4,13.4
+164,Bowers,Robert,10/27/2018,Bernice Simon,84,1,0,0,NA,87.9,3.9
+164,Bowers,Robert,10/27/2018,Sylvan Simon,86,0,0,0,NA,85.8,0
+164,Bowers,Robert,10/27/2018,Daniel Stein,71,0,0,0,NA,83,12
+164,Bowers,Robert,10/27/2018,Melvin Wax,88,0,0,0,NA,85.4,0
+164,Bowers,Robert,10/27/2018,Irving Younger,69,0,0,0,NA,83,14
+165,Long,Ian David,11/7/2018,Sean Adler,48,0,0,0,NA,68,20
+165,Long,Ian David,11/7/2018,Cody Gifford-Coffman,22,0,0,0,NA,73.4,51.4
+165,Long,Ian David,11/7/2018,Blake Dingman,21,0,0,0,NA,73.4,52.4
+165,Long,Ian David,11/7/2018,Jacob Dunham,21,0,0,0,NA,73.4,52.4
+165,Long,Ian David,11/7/2018,Ron Helus,54,0,0,0,NA,67.4,13.4
+165,Long,Ian David,11/7/2018,Alaina Housley,18,1,0,0,NA,79.9,61.9
+165,Long,Ian David,11/7/2018,Daniel Manrique,33,0,0,0,NA,72.7,39.7
+165,Long,Ian David,11/7/2018,Justin Meek,23,0,0,0,NA,73.4,50.4
+165,Long,Ian David,11/7/2018,Mark Meza Jr.,20,0,2,0,NA,79.3,59.3
+165,Long,Ian David,11/7/2018,Kristina Morisette,20,1,0,0,NA,90.9,70.9
+165,Long,Ian David,11/7/2018,Telemachus Orfanos,27,0,0,0,NA,72.7,45.7
+165,Long,Ian David,11/7/2018,Noel Sparks,21,1,0,0,NA,79.6,58.6
+166,Xaver,Zephen,1/23/2019,Debra Cook,54,1,0,0,NA,75.6,21.6
+166,Xaver,Zephen,1/23/2019,Marisol Lopez,55,1,2,0,NA,74.1,19.1
+166,Xaver,Zephen,1/23/2019,Jessica Montague,31,1,0,0,NA,79.4,48.4
+166,Xaver,Zephen,1/23/2019,Ana Piñon-Williams,38,1,2,0,NA,77.4,39.4
+166,Xaver,Zephen,1/23/2019,Cynthia Lee Watson,65,1,0,0,NA,72.2,7.2
+167,Martin,Gary,2/15/2019,Russell Beyer,47,0,0,1,coworker,68,21
+167,Martin,Gary,2/15/2019,Clayton Parks,32,0,0,1,supervisor,72.7,40.7
+167,Martin,Gary,2/15/2019,Vicente Juarez,54,0,2,1,coworker,67.1,13.1
+167,Martin,Gary,2/15/2019,Josh Pinkard,37,0,0,1,supervisor,70.7,33.7
+167,Martin,Gary,2/15/2019,Trevor Wehner,21,0,0,0,first day on job,74.7,53.7
+168,Craddock,DeWayne,5/31/2019,LaQuita Chenoah Brown,39,1,1,1,coworker,72.5,33.5
+168,Craddock,DeWayne,5/31/2019,Ryan Keith Cox,50,0,1,1,coworker,60,10
+168,Craddock,DeWayne,5/31/2019,Tara Welch Gallagher,39,1,0,1,coworker,78.1,39.1
+168,Craddock,DeWayne,5/31/2019,Mary Louise Crutsinger Gayle,65,1,0,1,coworker,72.2,7.2
+168,Craddock,DeWayne,5/31/2019,Alexander Mikhail Gusev,35,0,0,1,coworker,70.7,35.7
+168,Craddock,DeWayne,5/31/2019,Joshua Orion Hardy,52,0,1,1,coworker,60,8
+168,Craddock,DeWayne,5/31/2019,"Michelle Marie ""Missy"" Langer",60,1,0,1,coworker,74.1,14.1
+168,Craddock,DeWayne,5/31/2019,Richard H. Nettleton,65,0,3,1,coworker,65.6,0.6
+168,Craddock,DeWayne,5/31/2019,Katherine Anne Marie Lusich-Nixon,42,1,0,1,coworker,77.3,35.3
+168,Craddock,DeWayne,5/31/2019,Christopher Kelly Rapp,54,0,0,1,coworker,68,14
+168,Craddock,DeWayne,5/31/2019,"Herbert Ray ""Bert"" Snelling",57,0,0,0,NA,67.4,10.4
+168,Craddock,DeWayne,5/31/2019,"Robert Thomas ""Bobby"" Williams Sr.",72,0,0,1,coworker,83,11
+169,Crusius,Patrick,8/3/2019,Jordan Kae Anchondo,25,1,0,0,NA,79.6,54.6
+169,Crusius,Patrick,8/3/2019,Andre Pablo Anchondo,23,0,2,0,NA,72.5,49.5
+169,Crusius,Patrick,8/3/2019,Arturo Benavides,60,0,2,0,NA,66.6,6.6
+169,Crusius,Patrick,8/3/2019,Leonardo Campos Jr.,41,0,2,0,NA,70,29
+169,Crusius,Patrick,8/3/2019,Maribel Hernandez,56,1,2,0,NA,73.1,17.1
+169,Crusius,Patrick,8/3/2019,Juan de Dios Velázquez Chairez,77,0,2,0,NA,83.7,6.7
+169,Crusius,Patrick,8/3/2019,Angelina Silva Englisbee,86,1,2,0,NA,88.8,2.8
+169,Crusius,Patrick,8/3/2019,Alexander Gerhard Hoffmann Roth,66,0,0,0,NA,66.5,0.5
+169,Crusius,Patrick,8/3/2019,David Alvah Johnson,63,0,0,0,NA,67.4,4.4
+169,Crusius,Patrick,8/3/2019,Luis Alfonso Juarez,90,0,2,0,NA,86.7,0
+169,Crusius,Patrick,8/3/2019,Gloria Irma Márquez Juárez,61,1,2,0,NA,73.1,12.1
+169,Crusius,Patrick,8/3/2019,Ivan Filiberto Manzano,46,0,2,0,NA,68.8,22.8
+169,Crusius,Patrick,8/3/2019,Elsa Mendoza de la Mora Márquez,57,1,2,0,NA,73.1,16.1
+169,Crusius,Patrick,8/3/2019,Sara Esther Regalado Moriel,66,1,2,0,NA,71.1,5.1
+169,Crusius,Patrick,8/3/2019,Margie Reckard,63,1,0,0,NA,74.1,11.1
+169,Crusius,Patrick,8/3/2019,Javier Amir Rodriguez,15,0,2,0,NA,75,60
+169,Crusius,Patrick,8/3/2019,María Eugenia Legarreta Rothe,58,1,2,0,NA,73.1,15.1
+169,Crusius,Patrick,8/3/2019,Teresa Trinidad Sanchez Guerra,82,1,2,0,NA,89.2,7.2
+169,Crusius,Patrick,8/3/2019,Jorge Calvillo García,61,0,2,0,NA,66.6,5.6
+169,Crusius,Patrick,8/3/2019,Adolfo Cerros Hernández Aguascalientes,68,0,2,0,NA,65.6,0
+169,Crusius,Patrick,8/3/2019,Raul Flores,83,0,2,0,NA,87.3,4.3
+169,Crusius,Patrick,8/3/2019,Maria Flores,77,1,2,0,NA,86.7,9.7
+169,Crusius,Patrick,8/3/2019,Guillermo Garcia,36,0,2,0,NA,70,34
+170,Betts,Connor,8/4/2019,Jordan Cofer [Betts],22,0,0,1,sibling,73.4,51.4
+170,Betts,Connor,8/4/2019,Monica E. Brickhouse,39,1,1,0,NA,72.5,33.5
+170,Betts,Connor,8/4/2019,Nicholas P. Cumer,25,0,0,0,NA,73.4,48.4
+170,Betts,Connor,8/4/2019,Derrick R. Fudge,57,0,1,0,NA,61.1,4.1
+170,Betts,Connor,8/4/2019,Thomas J. McNichols,25,0,1,0,NA,65.2,40.2
+170,Betts,Connor,8/4/2019,Lois L. Oglesby,27,1,1,0,NA,73.6,46.6
+170,Betts,Connor,8/4/2019,Saeed Salah,38,0,1,0,NA,63.8,25.8
+170,Betts,Connor,8/4/2019,Logan M. Turner,30,0,0,0,NA,72.7,42.7
+170,Betts,Connor,8/4/2019,Beatrice N. Warren-Curtis,36,1,1,0,NA,72.5,36.5
+171,Ator,Seth,8/31/2019,"Rodolfo ""Rudy"" Arco",57,0,0,0,NA,67.4,10.4
+171,Ator,Seth,8/31/2019,Kameron Karltess Brown,30,0,1,0,NA,64.5,34.5
+171,Ator,Seth,8/31/2019,Raul Garcia,35,0,2,0,NA,70,35
+171,Ator,Seth,8/31/2019,Mary Granados,29,1,2,0,NA,78.8,49.8
+171,Ator,Seth,8/31/2019,Joseph Griffith,40,0,0,0,NA,70.7,30.7
+171,Ator,Seth,8/31/2019,Leilah Hernandez,15,1,2,0,NA,80.1,65.1
+171,Ator,Seth,8/31/2019,Edwin Peregrino,25,0,2,0,NA,72.5,47.5
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Leah Mindel Ferencz,33,1,0,0,NA,79.4,46.4
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Douglas Miguel Rodriguez,49,0,2,0,NA,67.1,18.1
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Moshe Deutsch,24,0,0,0,NA,73.4,49.4
+"172, 173","Anderson, Graham","David, Francine",12/10/2019,Joseph Seals,39,0,0,0,NA,70.7,31.7
+174,Ferrill,Anthony,2/26/2020,Jesus Valle Jr.,33,0,2,1,coworker,71.8,38.8
+174,Ferrill,Anthony,2/26/2020,Gennady Levshetz,61,0,0,1,coworker,74.1,13.1
+174,Ferrill,Anthony,2/26/2020,Trevor Wetselaar,33,0,0,1,coworker,72.7,39.7
+174,Ferrill,Anthony,2/26/2020,Dana Walk,57,0,0,1,coworker,67.4,10.4
+174,Ferrill,Anthony,2/26/2020,Dale Hudson,60,0,0,1,coworker,67.4,7.4
+175,Roman,Joaquin,3/15/2020,Troy D. Rapp,57,0,0,0,NA,67.4,10.4
+175,Roman,Joaquin,3/15/2020,Shannon Perkins,46,0,0,0,NA,69.5,23.5
+175,Roman,Joaquin,3/15/2020,Matthew Hicks-Morris,22,0,0,0,NA,74.7,52.7
+175,Roman,Joaquin,3/15/2020,Christopher Walsh,32,0,0,0,NA,72.7,40.7
+176,Long,Robert,3/16/2021,Hyun Jung Grant,51,1,3,2,She worked at a business he frequented.,74.7,23.7
+176,Long,Robert,3/16/2021,Xiaojie Tan,49,1,3,2,He might have visited the business she owned.,74.7,25.7
+176,Long,Robert,3/16/2021,Delaina Ashley Yaun,33,1,0,0,NA,79.4,46.4
+176,Long,Robert,3/16/2021,Paul Andre Michels,54,0,0,0,NA,68,14
+176,Long,Robert,3/16/2021,Yong Ae Yue,63,1,3,2,She worked at a business he frequented.,73.1,10.1
+176,Long,Robert,3/16/2021,Suncha Kim,69,1,3,2,She worked at a business he frequented.,71.1,2.1
+176,Long,Robert,3/16/2021,Soon Chung Park,74,1,3,2,She worked at a business he frequented.,71.1,0
+176,Long,Robert,3/16/2021,Daoyou Feng,44,1,3,2,He might have visited the business where she worked.,76.6,32.6
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Eric Talley,51,0,0,0,NA,67.1,16.1
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Denny Stong,20,0,0,0,NA,74.3,54.3
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Neven Stanisic,23,0,0,0,NA,74.1,51.1
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Rikki Olds,25,1,0,0,NA,78.9,53.9
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Tralona Bartkowiak,49,1,0,0,NA,74.7,25.7
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Suzanne Fountain,59,1,0,0,NA,73.1,14.1
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Teri Leiker,51,1,0,0,NA,74.7,23.7
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Kevin Mahoney,61,0,0,0,NA,66.6,5.6
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Lynn Murray,62,1,0,0,NA,73.1,11.1
+177,Alissa,Ahmad Al Aliwi,3/22/2021,Jody Waters ,65,1,0,0,NA,73.1,8.1
+178,Gaxiola Gonzalez,Aminadab,3/31/2021,Luis Tovar,50,0,2,1,Professional and/or personal,67.1,17.1
+178,Gaxiola Gonzalez,Aminadab,3/31/2021,Leticia Solis Guzman,58,1,2,1,Professional and/or personal,73.1,"15,1"
+178,Gaxiola Gonzalez,Aminadab,3/31/2021,Jenevieve Raygoza,28,1,2,1,Professional and/or personal,78.9,50.9
+178,Gaxiola Gonzalez,Aminadab,3/31/2021,Matthew Farias,9,0,2,0,NA,76.4,67.4
+179,Hole,Brandon Scott,4/15/2021,Matthew R. Alexander,32,0,0,2,Possibly former co-worker,71.8,39.8
+179,Hole,Brandon Scott,4/15/2021,Samaria Blackwell,19,1,0,0,NA,79.6,60.6
+179,Hole,Brandon Scott,4/15/2021,Amarjeet Kaur Johal,66,1,3,2,Possibly former co-worker,73.1,7.1
+179,Hole,Brandon Scott,4/15/2021,Jasvinder Kaur,50,1,3,2,Possibly former co-worker,74.7,24.7
+179,Hole,Brandon Scott,4/15/2021,Jaswinder Singh,68,0,3,0,NA,65.6,0
+179,Hole,Brandon Scott,4/15/2021,Amarjit Sekhon,48,1,3,0,NA,76.6,28.6
+179,Hole,Brandon Scott,4/15/2021,Karli Smith,19,1,1,0,NA,79.6,60.6
+179,Hole,Brandon Scott,4/15/2021,John Weisert,74,0,0,2,Possibly former co-worker,65.6,0
+180,Cassidy,Samuel,5/26/2021,Paul Delacruz Megia,42,0,3,1,Co-worker,70,28
+180,Cassidy,Samuel,5/26/2021,Taptejdeep Singh,36,0,3,1,Co-worker,70,34
+180,Cassidy,Samuel,5/26/2021,Adrian Balleza,29,0,2,1,Co-worker,71.8,42.8
+180,Cassidy,Samuel,5/26/2021,Jose Dejesus Hernandez III,35,0,2,1,Co-worker,71.8,36.8
+180,Cassidy,Samuel,5/26/2021,Timothy Michael Romo,49,0,0,1,Co-worker,67.1,18.1
+180,Cassidy,Samuel,5/26/2021,Michael Joseph Rudometkin,40,0,0,1,Co-worker,70,30
+180,Cassidy,Samuel,5/26/2021,Abdolvahab Alaghmandan,63,0,4,1,Co-worker,66.6,3.6
+180,Cassidy,Samuel,5/26/2021,Lars Kepler Lane,63,0,0,1,Co-worker,66.6,3.6
+180,Cassidy,Samuel,5/26/2021,Alex Ward Fritch,49,0,0,1,Co-worker,67.1,18.1

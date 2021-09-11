@@ -1,0 +1,11 @@
+City Or County,Shooting Name Sum,Shooting Sum,Shooter Name Sum,Incident ID,Incident Date,State,Address,# Killed,# Injured,Location Type,Gender of Killed,Avg Age of Killed,Majority racialized victims,Shooter Name,Shooter Age,Shooter Race,Shooter after the shooting,Cop Killed/ injured
+San Bernardino,228,5101,2017,456893,12/2/2015 0:00,California,1365 South Waterman Ave,16,19,public space,0.357142857,41.92857143,0,Rizwan Farook and Tashfeen Malik,28,pakistani,killed by police,2
+Houston,2,2401,0,390526,8/8/2015 0:00,Texas,2211 Falling Oaks,8,0,private space,0.25,18.25,1,David Ray Conley,48,black,arrested by police,0
+Washington Navy Yard,51,928,489,480366,9/16/2013 0:00,District of Columbia,1336 Isaac Hull Ave,13,3,public space,0.285714286,57.71428571,0,Aaron Alexis,34,black,killed by police,1
+Boulder,271,9394,357,1958652,3/22/2021 0:00,Colorado,3600 Table Mesa Dr,10,1,public space,0.6,46.6,0,Ahmad Al Aliwi Al-Issa,21,syrian-american,arrested by police,0
+Odessa,46,5569,493,1492441,8/31/2019 0:00,Texas,8250 TX 191,8,23,public space,0.285714286,31.85714286,1,Seth Aaron Ator,36,white,killed by police,3
+Pittsburgh,56,6669,911,1241819,10/27/2018 0:00,Pennsylvania,5898 Wilkins Ave,11,7,religious space,0.363636364,74,0,Robert Gregory Bowers,46,white,killed by police,4
+Las Vegas,1340,19302,8674,946496,10/1/2017 0:00,Nevada,3950 Las Vegas Blvd S,59,441,public space,0.620689655,38.37931034,0,Stephen Paddock,64,White,Suicide,0
+Plano,4,19345,132,930569,9/10/2017 0:00,Texas,1712 West Spring Creek Parkway,9,1,private space,0.375,27.375,0,Spencer Hight,32,white,killed by police,0
+Bogue Chitto,0,4035,0,853756,5/27/2017 0:00,Mississippi,2871 Lee Dr,8,1,private space,0.5,37.375,1,Willie Cory Godbolt,35,black,arrested by police,0
+Virginia Beach,65,11598,381,1410442,5/31/2019 0:00,Virginia,2405 Courthouse Drive,13,4,public space,0.416666667,51.58333333,0,DeWayne Craddock,40,black,killed by police,1
